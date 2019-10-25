@@ -1,4 +1,4 @@
-#Drink safe water in Sri Lanka without leaving a plastic bottle trail
+# Drink safe water in Sri Lanka without leaving a plastic bottle trail
 
 Have you always assumed that if it is not safe to drink the tap water then you need to rely on bottled water? In our experience that is not always the case. There are often better, less wasteful alternatives. 
 
