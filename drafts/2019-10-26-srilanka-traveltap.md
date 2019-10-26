@@ -22,7 +22,7 @@ We simply walked past it on our way to lunch! We later learned that many local b
 
 ## Trincomalee
 
-[Verified clean water lines][2] are installed at most accomodation and restaurants in the area. Just ask your accomodation for access to their verified clean water line where you can re-fill your bottle for free. The water tasted great and we had no issues :thumbsup: It is important to ask otherwise restaurants/accomidation seem to assume tourists whould rather single-use plastic bottels :thumbsdown:
+[Verified clean water lines][2] are installed at most accomodation and restaurants in the area. Just ask your accomodation for access to their verified clean water line where you can re-fill your bottle for free. The water tasted great and we had no issues :thumbsup: It is important to ask otherwise restaurants/accomodation seem to assume tourists whould rather single-use plastic bottles :thumbsdown:
 
 ### How we discovered this
 
