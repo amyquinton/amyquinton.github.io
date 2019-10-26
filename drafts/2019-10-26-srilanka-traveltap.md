@@ -24,6 +24,10 @@ On the main street in Arugambay you will find a free water refill station called
 ### How we discovered this
 We simply walked past it on our way to lunch! We later learned that many local businesses on the street refill here. We had already purchased a 5 litre bottle of water from the super market. So we took that bottle and a smaller bottle to re-fill several times during the rest of our stay. There is a donation box where you can make a contribution towards the plastic reduction initiative. 
 
+![]({{"/images/water/abay4.png"|absolute_url}})
+
+![]({{"/images/water/abay8.png"|absolute_url}})
+
 ## Trincomalee
 
 [Verified clean water lines][2] are installed at most accomodation and restaurants in the area. Just ask your accomodation for access to their verified clean water line where you can re-fill your bottle for free. The water tasted great and we had no issues :thumbsup: It is important to ask otherwise restaurants/accomodation seem to assume tourists whould rather single-use plastic bottles :thumbsdown:
