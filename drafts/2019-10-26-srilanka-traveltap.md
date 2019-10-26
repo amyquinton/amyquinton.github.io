@@ -11,7 +11,7 @@ Have you always assumed if it's not safe to drink the tap water while traveling,
 
 We discovered that the best option for longer term or regular travellers is to have your own water purifier bottle or system like a steri-pen so you are always covered. Our fav all-in-one solution for this is this simple [“Travel Tap” water purifying systems][1] which you can get from Amazon. But if you don’t have one, never fear.
 
-In Sri Lanka we discovered this nifty map https://getwater.lk that helps you find clean water refills and also lets you record new hidden clean water refill treasures that you discover, to benifit others!
+During [our Sri Lanka trip][7] we discovered this nifty map https://getwater.lk that helps you find clean water refills and also lets you record new hidden clean water refill treasures that you discover, to benifit others!
 
 There are many water re-fill stations where you can fill-up with clean fresh water, rather than purchasing bottled. Below are four popular tourist destinations where we found refill stations. These are just a few examples that we stumbled accross and there are many more options around the country as shown here https://getwater.lk. 
 
@@ -81,3 +81,4 @@ Would you find it useful if Trip Advisor, Booking.com, Google Reviews, AirBNB an
 [4]: https://www.facebook.com/pages/category/Local-Business/Our-World-Wifi-Cafe-1722413431118366/
 [5]: https://www.tripadvisor.com.sg/Hotel_Review-g946553-d15071396-Reviews-Peak_House-Matara_Southern_Province.html
 [6]: https://www.wastelessabay.com/
+[7]: https://amyquinton.github.io/srilanka/
