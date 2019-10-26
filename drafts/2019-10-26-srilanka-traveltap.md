@@ -15,7 +15,7 @@ In Sri Lanka we discovered there are many water re-fill stations where you can f
 
 ## Arugambay
 
-On the main street in Arugambay you will find a free water refill station.
+On the main street in Arugambay you will find a free water refill station called [WLAB][6] :droplet:
 
 ### How we discovered this
 We simply walked past it on our way to lunch! We later learned that many local businesses on the street refill here. We had already purchased a 5 litre bottle of water from the super market. So we took that bottle and a smaller bottle to re-fill several times during the rest of our stay. There is a donation box where you can make a contribution towards the plastic reduction initiative. 
@@ -73,3 +73,4 @@ Would you find it useful if Trip Advisor, Booking.com, Google Reviews, AirBNB an
 [3]: https://en.tripadvisor.com.hk/Restaurant_Review-g644047-d15534152-Reviews-The_Hideout_Unawatuna-Unawatuna_Galle_District_Southern_Province.html
 [4]: https://www.facebook.com/pages/category/Local-Business/Our-World-Wifi-Cafe-1722413431118366/
 [5]: https://www.tripadvisor.com.sg/Hotel_Review-g946553-d15071396-Reviews-Peak_House-Matara_Southern_Province.html
+[6]: https://www.wastelessabay.com/
