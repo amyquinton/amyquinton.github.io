@@ -9,9 +9,13 @@ description: Find clean drinking water in Sri Lanka, without single-use disposab
 
 Have you always assumed if it's not safe to drink the tap water while traveling, then you must rely on purchasing single-use bottled water? Well luckily for you, we have discovered that is not always the case! There are often far better, (and less wasteful) alternatives.
 
-After our first trip to Sri Lanka, we discovered that the best option for longer term or regular travellers is to have your own water purifier bottle or system like a steri-pen so you are always covered. Our fav all-in-one solution for this is this simple [“Travel Tap” water purifying systems][1] which you can get from Amazon. But if you don’t have one, never fear.
+We discovered that the best option for longer term or regular travellers is to have your own water purifier bottle or system like a steri-pen so you are always covered. Our fav all-in-one solution for this is this simple [“Travel Tap” water purifying systems][1] which you can get from Amazon. But if you don’t have one, never fear.
 
-In Sri Lanka we discovered there are many water re-fill stations where you can fill-up with clean fresh water, rather than purchasing bottled. Below are four popular tourist destinations where you will find refill stations. These are just a few examples that we visited and no doubt there are many more options around the country. If you know of any let me know and I can add them to the list.
+In Sri Lanka we discovered this nifty map https://getwater.lk that helps you find clean water refills and also lets you record new hidden clean water refill treasures that you discover, to benifit others!
+
+There are many water re-fill stations where you can fill-up with clean fresh water, rather than purchasing bottled. Below are four popular tourist destinations where we found refill stations. These are just a few examples that we stumbled accross and there are many more options around the country as shown here https://getwater.lk. 
+
+If you know of any more let me know or add them here https://getwater.lk youself
 
 ## Arugambay
 
@@ -65,6 +69,8 @@ But a conscious effort is needed to move away from the single-use plastic habit 
 ## Getting the message out
 
 So now you know, its up to all of us to blow this single-use bottled water myth right out of the water!
+
+Anybody traveling Sri Lanka can use https://getwater.lk and share it with friends. 
 
 Would you find it useful if Trip Advisor, Booking.com, Google Reviews, AirBNB and so on listed "water re-fill station" as a facility provided by the accomodation or restaurant? Send them some feedback and help get this added as a feature!
 
