@@ -18,15 +18,16 @@ In Sri Lanka we discovered there are many water re-fill stations where you can f
 On the main street in Arugambay you will find a free water refill station.
 
 ### How we discovered this
-We simply walked past it on our way to lunch! We later learned that many local businesses on the street refill here. We had already purchased a 5 litre bottle of water from the super market. So we took that bottle and a smaller bottle to re-fill several times during the rest of our stay. There is a donation box where you can make a contribution towards the plastic reduction initiative :potable_water:.
+We simply walked past it on our way to lunch! We later learned that many local businesses on the street refill here. We had already purchased a 5 litre bottle of water from the super market. So we took that bottle and a smaller bottle to re-fill several times during the rest of our stay. There is a donation box where you can make a contribution towards the plastic reduction initiative. 
 
 ## Trincomalee
 
-[Verified clean water lines][2] are installed at most accomodation and restaurants in the area. Just ask your accomodation for access to their verified clean water line where you can re-fill your bottle for free. The water tasted great and we had no issues :thumbsup:. It is important to ask otherwise restaurants/accomidation seem to assume tourists whould rather single-use plastic bottels :thumbsdown:.
+[Verified clean water lines][2] are installed at most accomodation and restaurants in the area. Just ask your accomodation for access to their verified clean water line where you can re-fill your bottle for free. The water tasted great and we had no issues :thumbsup: It is important to ask otherwise restaurants/accomidation seem to assume tourists whould rather single-use plastic bottels :thumbsdown:
 
 ### How we discovered this
 
-We were chatting with a restaurant owner at Nilaveli Beach about plastic pollution and he told us most places in the area have something that he called a '[sofia line][2]’ that provides verified clean water to the property. A what in the who know?! How did we not know about this?! We asked our guest house and sure enough they had a line and showed us where we could refill our bottles with clean, fresh, safe water for free! They told us it was mandatory for them to have that water line. It was separate water line to the guest rooms and there was only one tap available outside (and one in the Kitchen). 
+We were chatting with a restaurant owner at Nilaveli Beach about plastic pollution and he told us most places in the area have something that he called a '[sofia line][2]’ that provides verified clean water to the property. A what in the who know?! How did we not know about this?! We asked our guest house and sure enough they had a line and showed us where we could refill our bottles with clean, fresh, safe water for free! They told us it was mandatory for them to have that water line. It was separate water line to the guest rooms and there was one clean tap available outside (and one in the Kitchen) :potable_water:
+
 
 ## Anuradhapura
 
@@ -61,11 +62,11 @@ For example, if you already have clean drinking-quality water supply for the kit
 
 But a conscious effort is needed to move away from the single-use plastic habit we have all developed.
 
-##Getting the message out
+## Getting the message out
 
 So now you know, its up to all of us to blow this single-use bottled water myth right out of the water!
 
-Would you find it useful if Trip Advisor, Booking.com, Google Reviews, AirBNB and so on listed "water re-fill station" as a facility provided by the accomodation or restaurant?
+Would you find it useful if Trip Advisor, Booking.com, Google Reviews, AirBNB and so on listed "water re-fill station" as a facility provided by the accomodation or restaurant? Send them some feedback and help get this added as a feature!
 
 [1]: https://www.amazon.co.uk/Travel-Spout-800ml-filter-bottle/dp/B006RGLHOY
 [2]: https://www.water-technology.net/uncategorised/newssri-lanka-completes-water-supply-project-funded-by-french-government/
