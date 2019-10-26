@@ -15,7 +15,7 @@ In Sri Lanka we discovered this nifty map https://getwater.lk that helps you fin
 
 There are many water re-fill stations where you can fill-up with clean fresh water, rather than purchasing bottled. Below are four popular tourist destinations where we found refill stations. These are just a few examples that we stumbled accross and there are many more options around the country as shown here https://getwater.lk. 
 
-If you know of any more let me know or add them here https://getwater.lk youself
+If you know of any more add them here https://getwater.lk youself
 
 ## Arugambay
 
@@ -38,7 +38,7 @@ We were chatting with a restaurant owner at Nilaveli Beach about plastic polluti
 You can refill at many of the local general stores in town for 3 LKR per litre. A one litre plastic bottle is about 70 LKR, so 3 LKR is quite a saving!
 
 ### How we discovered this
-We asked if the guest house had a clean water line like in Trinco. Our host said that wasn’t available in the area, and told us he re-fills his water drums for the kitchen in town for 3 LKR per litre. He took us to the general store to re-fill our water that afternoon (on our way to sightseeing) and even lent us one of his 7 litre drums to use during our stay. So ask your accommodation where you can refill or if you can refill from their clean water supply (Depending on the situation, you could offer an amount, like 5 LKR per litre, to cover water costs).
+We asked if the guest house had a clean water line like in Trinco. Our host said that wasn’t available in the area, and told us he re-fills his water drums for the kitchen in town for 3 LKR per litre. He took us to the general store to re-fill our water that afternoon (on our way to sightseeing) and even lent us one of his 7 litre drums to use during our stay. So ask your accommodation where you can refill or if you can refill from their clean water supply (Depending on the situation, you could offer a small amount to cover water costs).
 
 ## Sigiriya
 
@@ -48,7 +48,8 @@ There are at least two re-fill stations here, one in the Village and one inside 
 Venturing out to dinner we were delighted to stumble across a water station outside the school in Sigirya Village. The next day we took our bottles and refilled them before visiting Lion Rock. We could have saved ourselves the extra walk however because on arrival to Lion Rock we discovered there was another refill station inside the main tourist entrance! We thought this was great but we wondered how people would know about this in advance? At least they can refill here rather than buy more water later on. And hopefully it is only a matter of time before it is more widely publicised.
 
 ## Unawatuna Beach, Galle
-[The hideout cafe and restaurant][3] has free fresh water 
+[The hideout cafe and restaurant][3] offers free water bottle refills for patrons. If you just need water, we're sure they would happily refill your bottle for a small fee. 
+
 
 ## Mirissa
 
