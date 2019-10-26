@@ -2,14 +2,14 @@
 layout: post
 title: Drink safe water in Sri Lanka without leaving a plastic bottle trail
 author: Amy Quinton, Daniel Newman
-description: Finding clean drinking water in Sri Lanka, without single-use disposable plastic bottles
+description: Find clean drinking water in Sri Lanka, without single-use disposable plastic bottles
 ---
 
 *Written by Amy Quinton and Daniel Newman*
 
-Have you always assumed that if it's not safe to drink the tap water while traveling, then you must rely on purchasing single-use bottled water? Well luckily for you, we have discovered that is not always the case! There are often far better, (and less wasteful) alternatives.
+Have you always assumed if it's not safe to drink the tap water while traveling, then you must rely on purchasing single-use bottled water? Well luckily for you, we have discovered that is not always the case! There are often far better, (and less wasteful) alternatives.
 
-For longer term or regular travellers we've found that the best option is to have your own water purifier bottle or system like a steri-pen so you are always covered. Our fav all-in-one solution for this is the [“Travel Tap” water purifying systems][1] which you can get from Amazon. But if you don’t have one, never fear.
+For longer term or regular travellers we've found that the best option is to have your own water purifier bottle or system like a steri-pen so you are always covered. Our fav all-in-one solution for this is this simple [“Travel Tap” water purifying systems][1] which you can get from Amazon. But if you don’t have one, never fear.
 
 In Sri Lanka we discovered there are many water re-fill stations where you can fill-up with clean fresh water, rather than purchasing bottled. Below are four popular tourist destinations where you will find refill stations. These are just a few examples that we visited and no doubt there are many more options around the country. If you know of any let me know and I can add them to the list.
 
@@ -18,11 +18,11 @@ In Sri Lanka we discovered there are many water re-fill stations where you can f
 On the main street in Arugambay you will find a free water refill station.
 
 ### How we discovered this
-We simply walked past it on our way to lunch. We later learned that many local businesses on the street refill here. We had already purchased a 5 litre bottle of water from the super market. So we took that bottle and a smaller bottle to re-fill several times during the rest of our stay. There is a donation box where you can make a contribution towards the plastic reduction initiative.
+We simply walked past it on our way to lunch! We later learned that many local businesses on the street refill here. We had already purchased a 5 litre bottle of water from the super market. So we took that bottle and a smaller bottle to re-fill several times during the rest of our stay. There is a donation box where you can make a contribution towards the plastic reduction initiative.
 
 ## Trincomalee
 
-Verified clean water lines are installed at most accomodation and restaurants in the area. Ask your accomodation if they have a verified clean water line where you can re-fill your bottle.
+[Verified clean water lines][2] are installed at most accomodation and restaurants in the area. Just ask your accomodation for access to their verified clean water line where you can re-fill your bottle for free :thumbsup:. It is important to ask otherwise restaurants/accomidation seem to assume tourists whould rather single-use plastic bottels :thumbsdown:.
 
 ### How we discovered this
 
@@ -70,3 +70,4 @@ But a conscious effort is needed to move away from the single-use plastic habit 
 Would you find it useful if Trip Advisor, Booking.com, Google Reviews, AirBNB and so on listed "water re-fill station" as a facility provided by the accomodation or restaurant?
 
 [1]: https://www.amazon.co.uk/Travel-Spout-800ml-filter-bottle/dp/B006RGLHOY
+[2]: https://www.water-technology.net/uncategorised/newssri-lanka-completes-water-supply-project-funded-by-french-government/
