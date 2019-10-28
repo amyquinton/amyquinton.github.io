@@ -18,7 +18,8 @@ At the start of [our Sri Lanka trip][7] the number of plastic bottles we were co
 We found there are actually numerous clean water sources (some more obvious than others) that allowed us to significantly reduce our single-use plastic bottle waste. 
 
 >### Personal purifier <br>
->Before we get into Sri Lanka's network of water refill stations, a quick note on personal filter and purifier options. If you're planning ahead for longer term or regular travel, having your own water purifier bottle or system can be a great way to cover your hydration needs. We now use [“Travel Tap” water purifying systems][1] which we find very versitile and convenient, and there are plenty of other choices available. <br>
+>Before we get into Sri Lanka's network of water refill stations, a quick note on personal filter and purifier options. If you're planning ahead for longer term or regular travel, having your own water purifier bottle or system can be a great way to cover your hydration needs. We now use [“Travel Tap” water purifying systems][1] which we find very versitile and convenient, and there are plenty of other choices available.
+>
 >But if you don’t have one of these magical water purifiers, never fear. Check out our tips below for staying hyrated in Sri Lanka without leaving a trail of plastic pollution behind you.
 
 ![]({{"/images/water/traveltap2.png"|absolute_url}})
@@ -70,6 +71,7 @@ The photo below shows kind of water tank to look for. This particular place was 
 
 >#### *How we discovered this*
 >We asked if the guest house had a verified clean water line like some other places we had visited. Our host said that wasn’t available at the property, and told us he re-fills his water drums in town for 3 LKR per litre. He took us to the general store to re-fill our water that afternoon (on our way to sightseeing) and even lent us one of his 7 litre drums to use during our stay. 
+>
 >So an easy option is to ask your accommodation where to refill, or if you can refill from their clean water supply (depending on the situation, you could offer a small amount to cover water costs, although we've found this is usually not expected).
 
 ![]({{"/images/water/anurat.png"|absolute_url}})
@@ -111,7 +113,7 @@ We had dinner at [Pedlar's Inn Cafe and Restaurant][10] and coffee at [Heritage 
 
 >#### *How we discovered this*
 >At Pedlar's Inn Cafe and Restaurant we noticed Sri Lankan people had glasses of water on their table and asked the waiter for the same. We're not sure if it was from the Government line or mineral water, but it tasted fine and quenched our thirst. 
-
+>
 >Our experience is that reputable establishments in Sri Lanka have water sanitation practices in place to prepare food, fresh juices etc. After enjoying drinks like Lime Juice that clearly had added water, we started to trust that water served at these venues would also be fine. And after 6 weeks and counting traveling in Sri Lanka, so far so good!
 
 ### Mirissa
@@ -133,7 +135,7 @@ Smart and experienced travellers around the world are seeking out alternatives t
 So, now you know, join your fellow travellers in kicking the single-use plastic habit. Support organisations offering solutions and let locals know you want to help keep their country beautiful and ocean life healthy by not leaving a trail of plastic waste behind you.
 
 >### Water Refill Station Travel App feature
-
+>
 >Would you find it useful if patforms like Trip Advisor, Booking.com, Google Maps, AirBNB etc listed "water re-fill station" as a facility at the accomodation/restaurant/area? If so send them some direct feedback or let us know in the comments below to help get this added as a feature!
 
 *Disclaimer: we are not finanically or otherwise affiliated with any of the products or services mentioned in this blog. While using the tips shared here we have stayed healthy and never experienced any water related health issues in Sri Lanka, however this blog is not intended to guarantee the safety of any drinking water supply in Sri Lanka.*
