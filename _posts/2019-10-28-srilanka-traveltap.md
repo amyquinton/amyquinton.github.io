@@ -53,8 +53,8 @@ We also found refreshing cold water served in a re-fillable glass bottle at rest
 ### Sigiriya
 
 There are at least two free purified water re-fill stations here installed by [Pina Organization][17], one in the Village (on [Sigiriya Rd outside Central College][16]) and one inside the main entrance to Lion Rock.
-![]({{"/images/water/sigi6.png"|absolute_url}})
 
+![]({{"/images/water/sigi6.jpg"|absolute_url}})
 ![]({{"/images/water/sigi5.png"|absolute_url}})
 
 >#### *How we discovered this*
@@ -65,6 +65,7 @@ There are at least two free purified water re-fill stations here installed by [P
 You can actually refill at many of the local general stores in town for only 3 LKR per litre. Who knew?! A 1.5 litre plastic bottle costs between 70-150 rupees, so 3 LKR is quite a saving!
 
 The photo below shows the kind of water tank to look for. This particular place was located on Niwanthaka Chethiya Road, Anuradhapura.
+
 ![]({{"/images/water/anurat.png"|absolute_url}})
 
 >#### *How we discovered this*
