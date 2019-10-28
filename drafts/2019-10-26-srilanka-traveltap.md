@@ -18,8 +18,7 @@ At the start of [our Sri Lanka trip][7] the number of plastic bottles we were co
 We found there are actually numerous clean water sources (some more obvious than others) that allowed us to significantly reduce our single-use plastic bottle waste. 
 
 >### Personal purifier <br>
->Before we get into Sri Lanka's network of water refill stations, a quick note on personal filter and purifier options. If you're planning ahead for longer term or regular travel, having your own water purifier bottle or system can be a great way to cover your hydration needs. We now use [“Travel Tap” water purifying systems][1] which we find very versitile and convenient, and there are plenty of other choices available. 
-
+>Before we get into Sri Lanka's network of water refill stations, a quick note on personal filter and purifier options. If you're planning ahead for longer term or regular travel, having your own water purifier bottle or system can be a great way to cover your hydration needs. We now use [“Travel Tap” water purifying systems][1] which we find very versitile and convenient, and there are plenty of other choices available. <br>
 >But if you don’t have one of these magical water purifiers, never fear. Check out our tips below for staying hyrated in Sri Lanka without leaving a trail of plastic pollution behind you.
 
 ![]({{"/images/water/traveltap2.png"|absolute_url}})
