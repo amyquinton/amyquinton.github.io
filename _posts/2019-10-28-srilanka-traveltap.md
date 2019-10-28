@@ -98,6 +98,8 @@ Sometimes we find it helps to explain we are trying to use less plastic to avoid
 
 We had dinner at [Pedlar's Inn Cafe and Restaurant][10] and coffee at [Heritage Cafe and Bistro][11]. Both provided glasses of water free of charge. If you have your water bottle with you, you could ask your restaurant to re-fill it for you.
 
+![]({{"/images/water/galle.png"|absolute_url}})
+
 >#### *How we discovered this*
 >At Pedlar's Inn Cafe and Restaurant we noticed Sri Lankan people had glasses of water on their table and asked the waiter for the same. We're not sure if it was from the Government line or mineral water, but it tasted fine and quenched our thirst. 
 >
@@ -119,7 +121,10 @@ We asked our friendly hosts at our Homestay ([Sun Ray Rest][13]) if they had a G
 
 Stay at [Peak house][5] for all your filtered water needs! We enjoyed the water filter here so didn't need water from the Government line, however the host told us that most properties in the area do have a Government water line. 
 
-[Verse Collective][12] is trendy space in Dickwella that provides table water in re-fillable glass bottles rather than plastic.
+![]({{"/images/water/dickwella2.png"|absolute_url}})
+![]({{"/images/water/dickwella.png"|absolute_url}})
+
+[Verse Collective][12] is trendy space in Dickwella that provides table water in re-fillable glass bottles rather than plastic. It has solid wifi too!
 
 
 ## Winning the water game
