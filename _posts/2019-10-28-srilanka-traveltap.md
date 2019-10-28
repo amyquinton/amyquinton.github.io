@@ -31,15 +31,15 @@ Many of the places we found to re-fill our bottles weren't yet recorded by Get W
 
 [![]({{"/images/water/getwater-lk.png"|absolute_url}})](https://www.getwater.lk/)
 
-Below we share a just few of the many places to refill, and things we learn along the way about water in Sri Lanka. 
+Below we share a just few of the many places to refill, and things we learnt along the way about water in Sri Lanka. 
  
 ### Arugambay
 
 **Waste Less ABay**
 
-On the main street in Arugambay you will find a free water refill station called [WLAB][6]. You can also drop off pastic water bottles for recycling there! It was actually [WLAB][6] who started the [Getwater.lk][8] initiative mentioned above!:droplet:
+On the main street in Arugambay you will find a free water refill station called [WLAB][6]. You can also drop off pastic water bottles for recycling there! It was actually [WLAB][6] who started the [Getwater.lk][8] initiative mentioned above! :droplet:
 
-**Restuarants - eg Spice Trail**
+**Restuarants - Spice Trail & others**
 
 We also found refreshing cold water served in a re-fillable glass bottle at restaurants like Spice Trail on the main road through Arugambay (picture of menu below). 
 
@@ -52,13 +52,13 @@ We also found refreshing cold water served in a re-fillable glass bottle at rest
 
 ### Sigiriya
 
-There are at least two re-fill stations here, one in the Village and one inside the main entrance to Lion Rock.
+There are at least two free purified water re-fill stations here installed by [Pina Organization][17], one in the Village (on [Sigiriya Rd outside Central College][16]) and one inside the main entrance to Lion Rock.
 ![]({{"/images/water/sigi6.png"|absolute_url}})
 
 ![]({{"/images/water/sigi5.png"|absolute_url}})
 
 >#### *How we discovered this*
->We first stumbled across a water station outside the school in Sigirya Village. We took our bottles and refilled them before visiting Lion Rock. We could have saved ourselves the extra walk however because on arrival to Lion Rock we discovered there was another refill station inside the main tourist entrance! Hopefully it is only a matter of time before these are more widely publicised.
+>We first stumbled across a water station outside the school in Sigirya Village. We took our bottles and refilled them before visiting Lion Rock. We could have saved ourselves the extra walk however because on arrival to Lion Rock we discovered there was another refill station inside the main tourist (western) entrance! Hopefully it is only a matter of time before these are more widely publicised.
 
 ### Anuradhapura
 
@@ -149,3 +149,5 @@ So, now you know, join your fellow travellers in kicking the single-use plastic 
 [13]: https://goo.gl/maps/atBAR1xgALnbwvST7
 [14]: https://amyquinton.github.io/about/
 [15]: https://dpnewman.com/
+[16]: https://www.google.com/maps/@7.9512442,80.7518198,3a,75y,289.4h,82.56t/data=!3m7!1e1!3m5!1sAF1QipM0SfD0xWXcwIUF6pzVRs7fWDYsLtSOutzby9Ib!2e10!3e11!7i5376!8i2688
+[17]: http://www.pinasrilanka.org/
