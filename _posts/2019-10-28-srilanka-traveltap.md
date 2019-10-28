@@ -20,6 +20,7 @@ We found there are actually numerous clean water sources (some more obvious than
 >### Personal purifier <br>
 >Before we get into Sri Lanka's network of water refill stations, a quick note on personal filter and purifier options. If you're planning ahead for longer term or regular travel, having your own water purifier bottle or system can be a great way to cover your hydration needs. We now use [“Travel Tap” water purifying systems][1] which we find very versitile and convenient, and there are plenty of other choices available.
 >![]({{"/images/water/traveltap2.png"|absolute_url}})
+>
 >But if you don’t have one of these magical water purifiers, never fear. Check out our tips below for staying hyrated in Sri Lanka without leaving a trail of plastic pollution behind you.
 
 ### GetWater.Lk
@@ -80,7 +81,7 @@ The photo below shows kind of water tank to look for. This particular place was 
 ![]({{"/images/water/Una1.png"|absolute_url}})
 
 ## I'd tap that!
-#### *A note on "tap water":*
+**A note on "tap water":**
 >Not all tap water in Sri Lanka is created equal. While you can't drink from just any tap, most accomodation and restaurants actually have a special water line providing safe drinking water. It's generally referred to as a "Government" or "Water Board" water line. Technically it comes out of a tap but it is not standard "tap water". It is a potable water line verified by the [Sri Lankan Water Board][9].
 >
 >This was a big surprise to us. We started asking our accomodation if they had a Government water line. Often they did and were happy to refill our bottles for us. We understand some travellers may be wary. Ultimately you must assess the risk for yourself, all we can say is that we drank a lot of Government line water without any issues, including in Trincomalee, Galle and Mirissa.
