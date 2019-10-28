@@ -87,7 +87,7 @@ The photo below shows kind of water tank to look for. This particular place was 
 
 >#### *A note on "tap water"*
 >Not all tap water in Sri Lanka is created equal. While you can't drink from just any tap, most accomodation and restaurants actually have a special water line providing safe drinking water. It's generally referred to as a "Government" or "Water Board" water line. Technically it comes out of a tap but it is not standard "tap water". It is a potable water line verified by the [Sri Lankan Water Board][9].
-
+>
 >This was a big surprise to us. We started asking our accomodation if they had a Government water line. Often they did and were happy to refill our bottles for us. We understand some travellers may be wary. Ultimately you must assess the risk for yourself, all we can say is that we drank a lot of Government line water without any issues, including in Trincomalee, Galle and Mirissa.
 
 Below we share some information about water in these places, including for Government water line and filtered/mineral water options.
