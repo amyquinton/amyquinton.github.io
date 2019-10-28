@@ -29,7 +29,7 @@ We found there are actually numerous clean water sources (some more obvious than
 
 Many of the places we found to re-fill our bottles weren't yet recorded by Get Water. With this in mind, it's definitely worth asking and looking around if [Getwater.lk][8] doesn't show options near you, and if you find new options, add them!
 
-![]({{"/images/water/getwater-lk.png"|absolute_url}})(https://www.getwater.lk/)
+[![]({{"/images/water/getwater-lk.png"|absolute_url}})](https://www.getwater.lk/)
 
 Below we share a just few of the many places to refill, and things we learn along the way about water in Sri Lanka. 
  
