@@ -41,7 +41,7 @@ Below we share just few of the many places to refill, and things we learnt along
 
 **Waste Less ABay**
 
-On the main street in Arugambay you will find a free water refill station called [WLAB][6]. You can also drop off pastic water bottles for recycling there! It was actually [WLAB][6] who started the [Getwater.lk][8] initiative mentioned above! :droplet:
+On the main street in Arugambay you will find a free water refill station called [WLAB][6]. You can also drop off pastic water bottles for recycling there! It was actually [WLAB][6] who started the [Getwater.lk][8] initiative mentioned above!
 
 **Restuarants - Spice Trail & others**
 
@@ -90,12 +90,12 @@ Below we share some information about water in Trincomalee and the South Coast, 
 
 [Verified clean water lines][2] are installed at most accomodation and restaurants in the area. Ask your accomodation if you can use their Government water line to re-fill your bottle.  
 
-The water tasted good and we had no issues :thumbsup: It is important to ask otherwise restaurants/accomodation assume tourists whould rather single-use plastic bottles :thumbsdown: 
+The water tasted good and we had no issues. It is important to ask otherwise restaurants/accomodation assume tourists whould rather single-use plastic bottles.
 
 Sometimes we find it helps to explain we are trying to use less plastic to avoid leaving plastic pollution behind us when we travel. Our hosts have been very responsive to this and happy to accomodate this request! But if a host is reluctant or doesnt understand our request, of course we respect that too.
 
 >#### *How we discovered this*
->It was actaully a beachfront restaurant owner who first told us about this. He was concerned about plastic pollution, as were we, and he told us most properties in the area have at least one verified clean water line. A what in the who know?! How did we not know about this?! He went on to tell us that this was locally called a '[sofia line][2]’ (or something sounding like that!) after the french water company that installed the water infrastructure. We asked our accomodation ([Sea Zone Hotel][18]) and sure enough they had a line and showed us where we could refill our bottles with clean, safe drinking water!  There were separate water lines to the guest bathrooms (which are not safe for drinking) and there was only one drink safe 'sofia line' available outside and another one in the kitchen. The hotel owners told us it was mandatory for them to have that water line :potable_water:
+>It was actaully a beachfront restaurant owner who first told us about this. He was concerned about plastic pollution, as were we, and he told us most properties in the area have at least one verified clean water line. A what in the who know?! How did we not know about this?! He went on to tell us that this was locally called a '[sofia line][2]’ (or something sounding like that!) after the french water company that installed the water infrastructure. We asked our accomodation ([Sea Zone Hotel][18]) and sure enough they had a line and showed us where we could refill our bottles with clean, safe drinking water!  There were separate water lines to the guest bathrooms (which are not safe for drinking) and there was only one drink safe 'sofia line' available outside and another one in the kitchen. The hotel owners told us it was mandatory for them to have that water line.
 
 ### Galle Fort
 
