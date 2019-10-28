@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Travel Guide to keeping hydrated in Sri Lanka without single-use plastic
+title: A Travel guide to clean water in Sri Lanka without single-use plastic
 author: Amy Quinton, Daniel Newman
 description: Find clean drinking water in Sri Lanka, without single-use disposable plastic bottles
 ---
