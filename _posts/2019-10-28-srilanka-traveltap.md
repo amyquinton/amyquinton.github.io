@@ -54,14 +54,12 @@ We also found refreshing cold water served in a re-fillable glass bottle at rest
 ### Sigiriya
 
 There are at least two re-fill stations here, one in the Village and one inside the main entrance to Lion Rock.
-
->#### *How we discovered this*
->We first stumbled across a water station outside the school in Sigirya Village. We took our bottles and refilled them before visiting Lion Rock. We could have saved ourselves the extra walk however because on arrival to Lion Rock we discovered there was another refill station inside the main tourist entrance! Hopefully it is only a matter of time before these are more widely publicised.
-
 ![]({{"/images/water/sigi6.png"|absolute_url}})
 
 ![]({{"/images/water/sigi5.png"|absolute_url}})
 
+>#### *How we discovered this*
+>We first stumbled across a water station outside the school in Sigirya Village. We took our bottles and refilled them before visiting Lion Rock. We could have saved ourselves the extra walk however because on arrival to Lion Rock we discovered there was another refill station inside the main tourist entrance! Hopefully it is only a matter of time before these are more widely publicised.
 
 ### Anuradhapura
 
