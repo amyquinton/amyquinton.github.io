@@ -7,9 +7,13 @@ description: Find clean drinking water in Sri Lanka, without single-use disposab
 
 *Written by [Amy Quinton][14] and [Daniel Newman][15]*
 
-Have you ever assumed that if it's not safe to drink the tap water while traveling, then you must rely on single-use bottled water? We did! But the great news is this is no longer the case. Better options exist, and smart, responsible travellers around the world are seeking them out.
+Have you ever assumed that if it's not safe to drink the tap water while traveling, then you must rely on single-use bottled water? 
 
-Here we share some insights from our experiences travelling in Sri Lanka to help you join your fellow travellers in giving single-use plastic bottles the flick. 
+We did...
+
+But the great news is this is no longer the case. Better options exist, and smart, responsible travellers around the world are seeking them out.
+
+Here we share some insights from our experiences travelling in Sri Lanka to help you join your fellow travellers in *giving single-use plastic bottles the flick*. 
 
 ## Sri Lanka hydration guide
 
