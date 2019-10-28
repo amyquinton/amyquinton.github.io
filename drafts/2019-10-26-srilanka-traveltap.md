@@ -134,7 +134,7 @@ Smart and experienced travellers around the world are seeking out alternatives t
 
 So, now you know, join your fellow travellers in kicking the single-use plastic habit. Support organisations offering solutions and let locals know you want to help keep their country beautiful and ocean life healthy by not leaving a trail of plastic waste behind you.
 
->### Water Refill Station Travel App feature
+>### Travel App feature?
 >
 >Would you find it useful if patforms like Trip Advisor, Booking.com, Google Maps, AirBNB etc listed "water re-fill station" as a facility at the accomodation/restaurant/area? If so send them some direct feedback or let us know in the comments below to help get this added as a feature!
 
