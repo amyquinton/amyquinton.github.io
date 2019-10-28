@@ -54,7 +54,7 @@ We also found refreshing cold water served in a re-fillable glass bottle at rest
 
 There are at least two free purified water re-fill stations here installed by [Pina Organization][17], one in the Village (on [Sigiriya Rd outside Central College][16]) and one inside the main entrance to Lion Rock.
 
-![]({{"/images/water/sigi6.jpg"|absolute_url}})
+![]({{"/images/water/sigi6.png"|absolute_url}})
 ![]({{"/images/water/sigi5.png"|absolute_url}})
 
 >#### *How we discovered this*
