@@ -5,7 +5,7 @@ author: Amy Quinton, Daniel Newman
 description: Find clean drinking water in Sri Lanka, without single-use disposable plastic bottles
 ---
 
-*Written by Amy Quinton and Daniel Newman*
+*Written by [Amy Quinton][14] and [Daniel Newman][15]*
 
 Have you ever assumed that if it's not safe to drink the tap water while traveling, then you must rely on single-use bottled water? We did! But the great news is this is no longer the case. Better options exist, and smart, responsible travellers around the world are seeking them out.
 
@@ -154,4 +154,5 @@ So, now you know, join your fellow travellers in kicking the single-use plastic 
 [11]: https://www.tripadvisor.com.au/Restaurant_Review-g297896-d12690438-Reviews-The_Heritage_Cafe_Bistro-Galle_Galle_District_Southern_Province.html
 [12]: https://www.tripadvisor.com.au/Hotel_Review-g644046-d14760448-Reviews-Verse_Collective-Dikwella_Southern_Province.html
 [13]: https://goo.gl/maps/atBAR1xgALnbwvST7
-
+[14]: https://amyquinton.github.io/about/
+[15]: https://dpnewman.com/
