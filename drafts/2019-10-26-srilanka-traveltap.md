@@ -71,7 +71,6 @@ The photo below shows kind of water tank to look for. This particular place was 
 
 >#### *How we discovered this*
 >We asked if the guest house had a verified clean water line like some other places we had visited. Our host said that wasn’t available at the property, and told us he re-fills his water drums in town for 3 LKR per litre. He took us to the general store to re-fill our water that afternoon (on our way to sightseeing) and even lent us one of his 7 litre drums to use during our stay. 
-
 >So an easy option is to ask your accommodation where to refill, or if you can refill from their clean water supply (depending on the situation, you could offer a small amount to cover water costs, although we've found this is usually not expected).
 
 ![]({{"/images/water/anurat.png"|absolute_url}})
@@ -84,7 +83,6 @@ The photo below shows kind of water tank to look for. This particular place was 
 [The hideout cafe and restaurant][3] offers free water refills for patrons. We thoroughly enjoyed the tacos, burritos and bountry cake here! If you just need water, we're sure they would happily refill your bottle, maybe for a very small fee. 
 
 ![]({{"/images/water/Una1.png"|absolute_url}})
-
 
 ## I'd tap that!
 
