@@ -31,7 +31,7 @@ Many of the places we found to re-fill our bottles weren't yet recorded by Get W
 
 ![]({{"/images/water/getwater-lk.png"|absolute_url}})
 
-Below we share a just few of the manny places to refill, and things we learn along the way about water in Sri Lanka. 
+Below we share a just few of the many places to refill, and things we learn along the way about water in Sri Lanka. 
  
 ### Arugambay
 
