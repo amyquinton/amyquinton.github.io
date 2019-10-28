@@ -79,7 +79,7 @@ The photo below shows the kind of water tank to look for. This particular place 
 >
 >This was a big surprise to us. We started asking our accomodation if they had a Government water line. Often they did and were happy to refill our bottles for us. We understand some travellers may be wary. Ultimately you must assess the risk for yourself, all we can say is that we drank a lot of Government line water without any issues, including in Trincomalee, Galle and Mirissa.  
 
-Below we share some information about water in these places, including for Government water line and filtered/mineral water options. (Some areas in Sri Lanka rely more heavily on ground water, which we understand varies in quality from place to place. We did not happen to drink well water so do not comment further on this).
+Below we share some information about water in Trincomalee and the South Coast, including some Government water line and filtered/mineral water options. (Some areas in Sri Lanka rely more heavily on ground water, which we understand varies in quality from place to place. We did not happen to drink well water so do not comment further on this).
 
 ### Trincomalee
 
