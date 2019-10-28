@@ -72,21 +72,14 @@ The photo below shows kind of water tank to look for. This particular place was 
 >
 >So an easy option is to ask your accommodation where to refill, or if you can refill from their clean water supply (depending on the situation, you could offer a small amount to cover water costs, although we've found this is usually not expected).
 
-### Unawatuna Beach, Galle
-
-**Hideout**
-
-[The hideout cafe and restaurant][3] offers free water refills for patrons. We thoroughly enjoyed the tacos, burritos and bountry cake here! If you just need water, we're sure they would happily refill your bottle, maybe for a very small fee. 
-
-![]({{"/images/water/Una1.png"|absolute_url}})
 
 ## I'd tap that!
 **A note on "tap water":**
->Not all tap water in Sri Lanka is created equal. While you can't drink from just any tap, most accomodation and restaurants actually have a special water line providing safe drinking water. It's generally referred to as a "Government" or "Water Board" water line. Technically it comes out of a tap but it is not standard "tap water". It is a potable water line verified by the [Sri Lankan Water Board][9].
+>Not all tap water in Sri Lanka is created equal. While you can't drink from just any tap, most accomodation and restaurants in certain areas actually have a special water line providing safe drinking water. It's generally referred to as a "Government" or "Water Board" water line. Technically it comes out of a tap but it is not standard "tap water". It is a potable water line verified by the [Sri Lankan Water Board][9]. 
 >
->This was a big surprise to us. We started asking our accomodation if they had a Government water line. Often they did and were happy to refill our bottles for us. We understand some travellers may be wary. Ultimately you must assess the risk for yourself, all we can say is that we drank a lot of Government line water without any issues, including in Trincomalee, Galle and Mirissa.
+>This was a big surprise to us. We started asking our accomodation if they had a Government water line. Often they did and were happy to refill our bottles for us. We understand some travellers may be wary. Ultimately you must assess the risk for yourself, all we can say is that we drank a lot of Government line water without any issues, including in Trincomalee, Galle and Mirissa.  
 
-Below we share some information about water in these places, including for Government water line and filtered/mineral water options.
+Below we share some information about water in these places, including for Government water line and filtered/mineral water options. (Some areas in Sri Lanka rely more heavily on ground water, which we understand varies in quality from place to place. We did not happen to drink well water so cannot comment directly on this).
 
 ### Trincomalee
 
@@ -97,9 +90,9 @@ The water tasted good and we had no issues :thumbsup: It is important to ask oth
 Sometimes we find it helps to explain we are trying to use less plastic to avoid leaving plastic pollution behind us when we travel. Our hosts have been very responsive to this and happy to accomodate this request! But if a host is reluctant or doesnt understand our request, of course we respect that too.
 
 >#### *How we discovered this*
->It was actaully a beachfront restaurant owner who first told us about this. He was concerned about plastic pollution, as were we, and he told us most properties in the area have at least one verified clean water line. A what in the who know?! How did we not know about this?! He went on to tell us that this was locally called a '[sofia line][2]’ (or something sounding like that!) after the french water company that installed the water infrastructure. We asked our guest house and sure enough they had a line and showed us where we could refill our bottles with clean, safe drinking water!  There were separate water lines to the guest bathrooms and there was only one drink safe 'sofia line' available outside and another one in the kitchen. The hotel owners told us it was mandatory for them to have that water line:potable_water:
+>It was actaully a beachfront restaurant owner who first told us about this. He was concerned about plastic pollution, as were we, and he told us most properties in the area have at least one verified clean water line. A what in the who know?! How did we not know about this?! He went on to tell us that this was locally called a '[sofia line][2]’ (or something sounding like that!) after the french water company that installed the water infrastructure. We asked our accomodation ([Sea Zone Hotel][18]) and sure enough they had a line and showed us where we could refill our bottles with clean, safe drinking water!  There were separate water lines to the guest bathrooms and there was only one drink safe 'sofia line' available outside and another one in the kitchen. The hotel owners told us it was mandatory for them to have that water line :potable_water:
 
-### Galle
+### Galle Fort
 
 #### *Service water at resturants*
 
@@ -109,6 +102,14 @@ We had dinner at [Pedlar's Inn Cafe and Restaurant][10] and coffee at [Heritage 
 >At Pedlar's Inn Cafe and Restaurant we noticed Sri Lankan people had glasses of water on their table and asked the waiter for the same. We're not sure if it was from the Government line or mineral water, but it tasted fine and quenched our thirst. 
 >
 >Our experience is that reputable establishments in Sri Lanka have water sanitation practices in place to prepare food, fresh juices etc. After enjoying drinks like Lime Juice that clearly had added water, we started to trust that water served at these venues would also be fine. And after 6 weeks and counting traveling in Sri Lanka, so far so good!
+
+### Unawatuna Beach, Galle
+
+**Hideout**
+
+[The hideout cafe and restaurant][3] offers free water refills for patrons. We thoroughly enjoyed the tacos, burritos and bountry cake here too! If you just need water, we're sure they would happily refill your bottle, maybe for a small fee. 
+
+![]({{"/images/water/Una1.png"|absolute_url}})
 
 ### Mirissa
 
@@ -151,3 +152,4 @@ So, now you know, join your fellow travellers in kicking the single-use plastic 
 [15]: https://dpnewman.com/
 [16]: https://www.google.com/maps/@7.9512442,80.7518198,3a,75y,289.4h,82.56t/data=!3m7!1e1!3m5!1sAF1QipM0SfD0xWXcwIUF6pzVRs7fWDYsLtSOutzby9Ib!2e10!3e11!7i5376!8i2688
 [17]: http://www.pinasrilanka.org/
+[18]: https://www.tripadvisor.com.au/Hotel_Review-g2424710-d6866663-Reviews-Sea_Zone_Hotel-Nilaveli_Eastern_Province.html
