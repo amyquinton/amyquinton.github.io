@@ -13,16 +13,16 @@ We did...
 
 But the great news is this is no longer the case. Better options exist and smart, responsible travellers around the world are seeking them out.
 
-Here we share some insights from our experiences travelling in Sri Lanka to help you join your fellow travellers in *giving single-use plastic bottles the flick*. 
+Here are some insights to help you join your fellow travellers in *giving single-use plastic bottles the flick*.
 
 ## Sri Lanka hydration guide
 
 At the start of [our Sri Lanka trip][7] the number of plastic bottles we were consuming was growing at an alarming rate. We thought there must be a better way. And there was! 
 
-We found there are actually numerous clean water sources (some more obvious than others) that allowed us to significantly reduce our single-use plastic bottle waste. 
+There are actually numerous clean water sources (some more obvious than others) that allowed us to significantly reduce our single-use plastic bottle waste. 
 
 >### Personal purifier <br>
->Before we get into Sri Lanka's network of water refill stations, a quick note on personal filter and purifier options. If you're planning ahead for longer term or regular travel, having your own water purifier bottle or system can be great to cover your hydration needs. We now use [“Travel Tap” water purifying systems][1] which we find very versitile and convenient, and there are plenty of other choices available.
+>Before getting into Sri Lanka's network of water refill stations, a quick note on personal filter and purifier options. If you're planning ahead for longer term or regular travel, having your own water purifier bottle or system can be great to cover your hydration needs. We now use [“Travel Tap” water purifying systems][1] which is very versitile and convenient, and there are plenty of other choices available.
 >![]({{"/images/water/traveltap2.png"|absolute_url}})
 >
 >But if you don’t have one of these magical water purifiers, never fear. Check out our tips below for staying hydrated in Sri Lanka without leaving a trail of plastic pollution behind you.
@@ -35,7 +35,7 @@ Many of the places we found to re-fill our bottles weren't yet recorded by Get W
 
 [![]({{"/images/water/getwater-lk.png"|absolute_url}})](https://www.getwater.lk/)
 
-Below we share just few of the many places and ways to refill, and things we learnt along the way about water in Sri Lanka. 
+Below we share with you just few of the many places and ways to refill, and things learnt along the way about water in Sri Lanka. 
  
 ### Arugambay
 
@@ -45,7 +45,7 @@ On the main street in Arugambay you will find a free purified water refill stati
 
 **Restuarants - Spice Trail & others**
 
-We also found refreshing cold water served in a re-fillable glass bottle at restaurants like Spice Trail on the main road through Arugambay (picture of menu below). 
+Find refreshing cold water served in a re-fillable glass bottle at restaurants like Spice Trail on the main road through Arugambay (picture of menu below). 
 
 ![]({{"/images/water/abay4.png"|absolute_url}})
 
@@ -62,7 +62,7 @@ There are at least two free purified water re-fill stations in Sigiriya installe
 ![]({{"/images/water/sigi5.png"|absolute_url}})
 
 >#### *How we discovered this*
->We first stumbled across a water station outside the school in Sigiriya Village. We took our bottles and refilled them before visiting Lion Rock. But we could have saved ourselves the extra walk because on arrival to Lion Rock we discovered another refill station specifically for tourists inside the entrance! Hopefully it is only a matter of time before these are more widely publicised.
+>We first stumbled across a water station outside the school in Sigiriya Village. We took our bottles and refilled them before visiting Lion Rock. But we could have saved the extra walk because on arrival to Lion Rock we discovered another refill station specifically for tourists inside the entrance! Hopefully it is only a matter of time before these are more widely publicised.
 
 ### Anuradhapura
 
@@ -73,16 +73,16 @@ The photo below shows the kind of water tank to look for. This particular place 
 ![]({{"/images/water/anurat.png"|absolute_url}})
 
 >#### *How we discovered this*
->We asked if the guest house had a verified clean water line like some other places we had visited. Our host said that wasn’t available at the property, and told us he re-fills his water drums in town for 3 LKR per litre. He took us to the general store to re-fill our water that afternoon (on our way to sightseeing) and even lent us one of his 7 litre drums to use during our stay. 
+>We asked if the guest house had a verified clean water line like some other places. Our host said that wasn’t available at the property, and told us he re-fills his water drums in town for 3 LKR per litre. He took us to the general store to re-fill our water that afternoon (on our way to sightseeing) and even lent us one of his 7 litre drums to use during our stay. 
 >
->So an easy option is to ask your accommodation where to refill, or if you can refill from their clean water supply (depending on the situation, you could offer a small amount to cover water costs, although we've found this is usually not expected).
+>So an easy option is to ask your accommodation where to refill, or if you can refill from their clean water supply (depending on the situation, you could offer a small amount to cover water costs, although this is usually not expected).
 
 
 ## I'd tap that!
 **A note on "tap water":**
 >Not all tap water in Sri Lanka is created equal. While you can't drink from just any tap, most accomodation and restaurants in certain areas actually have a special water line providing safe drinking water. It's generally referred to as a "Government" or "Water Board" water line. Technically it comes out of a tap but it is not standard "tap water". It is a potable water line verified by the [Sri Lankan Water Board][9]. 
 >
->This was a big surprise to us. We started asking our accomodation if they had a Government water line. Often they did and were happy to refill our bottles for us. We understand some travellers may be wary. Ultimately you must assess the risk for yourself, all we can say is that we drank a lot of Government line water without any issues, including in Trincomalee, Galle and Mirissa.  
+>This was a big surprise to us. We started asking our accomodation if they had a Government water line. Often they did and were happy to refill our bottles for us. We understand some travellers may be wary. Ultimately you must assess the risk for yourself, but we drank a lot of Government line water without any issues, including in Trincomalee, Galle and Mirissa.  
 
 Below we share some information about water in Trincomalee and the South Coast, including some Government water line and filtered/mineral water options. (Some areas in Sri Lanka rely more heavily on ground water, which we understand varies in quality from place to place. We did not happen to drink ground/well water so do not comment further on this here.)
 
@@ -95,18 +95,18 @@ The water tasted good and we had no issues. It is important to ask otherwise res
 Sometimes we find it helps to explain we are trying to use less plastic to avoid leaving plastic pollution behind us when we travel. Our hosts have been very responsive to this and happy to accomodate this request! But if a host is reluctant or doesnt understand our request, of course we respect that too.
 
 >#### *How we discovered this*
->It was actaully a beachfront restaurant owner who first told us about this. He was concerned about plastic pollution, as were we, and he told us most properties in the area have at least one verified clean water line. A what in the who know?! How did we not know about this?! He went on to tell us that this was locally called a '[sofia line][2]’ (or something sounding like that!) after the french water company that installed the water infrastructure. We asked our accomodation ([Sea Zone Hotel][18]) and sure enough they had a line and showed us where we could refill our bottles with clean, safe drinking water!  There were separate water lines to the guest bathrooms (which are not safe for drinking) and there was only one drink safe 'sofia line' available outside and another one in the kitchen. The hotel owners told us it was mandatory for them to have that water line.
+>It was actaully a beachfront restaurant owner who first told us about this. He was concerned about plastic pollution, as were we, and he told us most properties in the area have at least one verified clean water line. A what in the who know?! How did we not know about this?! He went on to tell us that this was locally called a '[sofia line][2]’ (or something sounding like that!) after the french water company that installed the water infrastructure. We asked our accomodation ([Sea Zone Hotel][18]) and sure enough they had a line and showed us where to refill our bottles with clean, safe drinking water!  There were separate water lines to the guest bathrooms (which are not safe for drinking) and there was only one drink safe 'sofia line' available outside and another one in the kitchen. The hotel owners told us it was mandatory for them to have that water line.
 
 ### Galle Fort
 
 #### *Service water at resturants*
 
-We had dinner at [Pedlar's Inn Cafe and Restaurant][10] and coffee at [Heritage Cafe and Bistro][11]. Both provided glasses of water free of charge. If you have your water bottle with you, you could ask your restaurant to re-fill it for you.
+Dinner at [Pedlar's Inn Cafe and Restaurant][10] and coffee at [Heritage Cafe and Bistro][11] - both provided glasses of water free of charge. If you have your water bottle with you, you could ask your restaurant to re-fill it for you.
 
 ![]({{"/images/water/galle.png"|absolute_url}})
 
 >#### *How we discovered this*
->At Pedlar's Inn Cafe and Restaurant we noticed Sri Lankan people had glasses of water on their table so we asked the waiter for the same. We're not sure if it was from the Government water line or mineral water, but it tasted fine and quenched our thirst. 
+>At Pedlar's Inn Cafe and Restaurant we noticed Sri Lankan people had glasses of water on their table so asked the waiter for the same. We're not sure if it was from the Government water line or mineral water, but it tasted fine and quenched our thirst. 
 >
 >Our experience is that reputable establishments in Sri Lanka have water sanitation practices in place to prepare food, fresh juices etc. After enjoying drinks like Lime Juice that clearly had added water, we started to trust that water served at these venues would also be fine. And after 6 weeks and counting travelling in Sri Lanka, so far so good!
 
@@ -120,7 +120,7 @@ We had dinner at [Pedlar's Inn Cafe and Restaurant][10] and coffee at [Heritage 
 
 ### Mirissa
 
-We asked our friendly hosts at our Homestay ([Sun Ray Rest][13]) if we could use their Government / Water Board line for drinking water. They were very obliging and refilled our bottles for us.  If you are open to trying this option, definitely ask your accomodation about it!
+We asked our friendly hosts at our Homestay ([Sun Ray Rest][13]) to use their Government / Water Board line for drinking water. They were very obliging and refilled our bottles for us.  If you are open to trying this option, definitely ask your accomodation about it!
 
 ### Dickwella / Hiriketiya Beach
 
