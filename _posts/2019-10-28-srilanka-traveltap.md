@@ -15,7 +15,7 @@ But the great news is this is no longer the case. Better options exist and smart
 
 Here are some insights to help you join your fellow travellers in *giving single-use plastic bottles the flick*.
 
-*We are not finanically or otherwise affiliated with any of the products or services mentioned in this blog.*
+<sub>*We are not finanically or otherwise affiliated with any of the products or services mentioned in this blog.*
 
 ## Sri Lanka hydration guide
 
