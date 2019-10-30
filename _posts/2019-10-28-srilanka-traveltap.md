@@ -76,10 +76,9 @@ The photo below shows the kind of water tank to look for. This particular place 
 ![]({{"/images/water/anurat.png"|absolute_url}})
 
 >#### *How we discovered this*
->We asked if the guest house had a verified clean water line like some other places. Our host said that wasn’t available at the property, and told us he re-fills his water drums in town for 3 LKR per litre. He took us to the general store to re-fill our water that afternoon (on our way to sightseeing) and even lent us one of his 7 litre drums to use during our stay. 
+>We asked our excellent guest house, [Heritage Lake View][19], if they had a verified clean water line like some other places. Our host said that wasn’t available at the property, and told us he re-fills his water drums in town for 3 LKR per litre. He took us to the general store to re-fill our water that afternoon (on our way to sightseeing) and even lent us one of his 7 litre drums to use during our stay. 
 >
 >So an easy option is to ask your accommodation where to refill, or if you can refill from their clean water supply (depending on the situation, you could offer a small amount to cover water costs, although this is usually not expected).
-
 
 ## I'd tap that!
 **A note on "tap water":**
@@ -168,3 +167,4 @@ So, now you know, join your fellow travellers in kicking the single-use plastic 
 [16]: https://www.google.com/maps/@7.9512442,80.7518198,3a,75y,289.4h,82.56t/data=!3m7!1e1!3m5!1sAF1QipM0SfD0xWXcwIUF6pzVRs7fWDYsLtSOutzby9Ib!2e10!3e11!7i5376!8i2688
 [17]: http://www.pinasrilanka.org/
 [18]: https://www.tripadvisor.com.au/Hotel_Review-g2424710-d6866663-Reviews-Sea_Zone_Hotel-Nilaveli_Eastern_Province.html
+[19]: https://www.lonelyplanet.com/sri-lanka/anuradhapura/hotels/heritage-lake-view/a/lod/59b12a09-7036-425c-9ca8-cf4e4ea55180/357449
