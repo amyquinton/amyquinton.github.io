@@ -15,11 +15,13 @@ But the great news is this is no longer the case. Better options exist and smart
 
 Here are some insights to help you join your fellow travellers in *giving single-use plastic bottles the flick*.
 
+*Disclaimer: we are not finanically or otherwise affiliated with any of the products or services mentioned in this blog.*
+
 ## Sri Lanka hydration guide
 
 At the start of [our Sri Lanka trip][7] the number of plastic bottles we were consuming was growing at an alarming rate. We thought there must be a better way. And there was! 
 
-There are actually numerous clean water sources (some more obvious than others) that allowed us to significantly reduce our single-use plastic bottle waste. 
+There are actually numerous clean water sources (some more obvious than others) that allowed us to significantly reduce our plastic bottle waste. 
 
 >### Personal purifier <br>
 >Before getting into Sri Lanka's network of water refill stations, a quick note on personal filter and purifier options. If you're planning ahead for longer term or regular travel, having your own water purifier bottle or system can be great to cover your hydration needs. We now use [“Travel Tap” water purifying systems][1] which is very versitile and convenient, and there are plenty of other choices available.
@@ -144,7 +146,7 @@ So, now you know, join your fellow travellers in kicking the single-use plastic 
 >
 >Would you find it useful if patforms like Trip Advisor, Booking.com, Google Maps, AirBNB etc listed "water re-fill station" as a facility at the accomodation/restaurant/area? If so send them some direct feedback or let us know in the comments below to help get this added as a feature!
 
-*Disclaimer: we are not finanically or otherwise affiliated with any of the products or services mentioned in this blog. While using the tips shared here we have stayed healthy and never experienced any water related health issues in Sri Lanka. However, of course we cannot absolutely guarantee the quality of any drinking water supply.*
+*While using the tips shared here we have stayed healthy and never experienced any water related health issues in Sri Lanka. However, of course we cannot absolutely guarantee the quality of any drinking water supply.*
 
 [1]: https://www.amazon.co.uk/Travel-Spout-800ml-filter-bottle/dp/B006RGLHOY
 [2]: https://www.water-technology.net/uncategorised/newssri-lanka-completes-water-supply-project-funded-by-french-Government/
