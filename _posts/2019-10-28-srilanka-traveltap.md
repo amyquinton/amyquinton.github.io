@@ -61,6 +61,7 @@ Find refreshing cold water served in a re-fillable glass bottle at restaurants l
 There are at least two free purified water re-fill stations in Sigiriya installed by [Pina Organization][17], one in the Village (on [Sigiriya Rd outside Central College][16]) and one inside the main (western) entrance to Lion Rock.
 
 ![]({{"/images/water/sigi6.png"|absolute_url}})
+
 ![]({{"/images/water/sigi5.png"|absolute_url}})
 
 >#### *How we discovered this*
@@ -129,6 +130,7 @@ We asked our friendly hosts at our Homestay ([Sun Ray Rest][13]) to use their Go
 Stay at [Peak house][5] for all your filtered water needs! We enjoyed the water filter here so didn't need water from the Government line, however the host told us that most properties in the area do have a Government water line. 
 
 ![]({{"/images/water/dickwella2.png"|absolute_url}})
+
 ![]({{"/images/water/dickwella.png"|absolute_url}})
 
 [Verse Collective][12] is trendy space in Dickwella that provides table water in re-fillable glass bottles rather than plastic. It has solid wifi too!
