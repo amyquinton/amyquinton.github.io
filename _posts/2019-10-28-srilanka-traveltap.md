@@ -94,7 +94,7 @@ Below we share some information about water in Trincomalee and the South Coast, 
 
 The water tasted good and we had no issues. It is important to ask otherwise restaurants/accomodation tend to assume tourists whould rather single-use plastic bottles.
 
-Sometimes we find it helps to explain we are trying to use less plastic to avoid leaving plastic pollution behind us when we travel. Our hosts have been very responsive to this and happy to accomodate this request! But if a host is reluctant or doesnt understand our request, of course we respect that too.
+Sometimes we find it helps to explain we are trying to use less plastic to avoid leaving plastic pollution behind us when we travel. Our hosts have been very responsive to this and happy to accomodate this request! But if a host is reluctant or doesn't understand our request, of course we respect that too.
 
 >#### *How we discovered this*
 >It was actaully a beachfront restaurant owner who first told us about this. He was concerned about plastic pollution, as were we, and he told us most properties in the area have at least one verified clean water line. A what in the who know?! How did we not know about this?! He went on to tell us that this was locally called a '[sofia line][2]’ (or something sounding like that!) after the french water company that installed the water infrastructure. We asked our accomodation ([Sea Zone Hotel][18]) and sure enough they had a line and showed us where to refill our bottles with clean, safe drinking water!  There were separate water lines to the guest bathrooms (which are not safe for drinking) and there was only one drink safe 'sofia line' available outside and another one in the kitchen. The hotel owners told us it was mandatory for them to have that water line.
