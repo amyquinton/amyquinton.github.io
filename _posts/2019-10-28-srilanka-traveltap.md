@@ -61,6 +61,7 @@ Find refreshing cold water served in a re-fillable glass bottle at restaurants l
 There are at least two free purified water re-fill stations in Sigiriya installed by [Pina Organization][17], one in the Village (on [Sigiriya Rd outside Central College][16]) and one inside the main (western) entrance to Lion Rock.
 
 ![]({{"/images/water/sigi6.png"|absolute_url}})
+
 ![]({{"/images/water/sigi5.png"|absolute_url}})
 
 >#### *How we discovered this*
@@ -94,7 +95,7 @@ Below we share some information about water in Trincomalee and the South Coast, 
 
 The water tasted good and we had no issues. It is important to ask otherwise restaurants/accomodation tend to assume tourists whould rather single-use plastic bottles.
 
-Sometimes we find it helps to explain we are trying to use less plastic to avoid leaving plastic pollution behind us when we travel. Our hosts have been very responsive to this and happy to accomodate this request! But if a host is reluctant or doesnt understand our request, of course we respect that too.
+Sometimes we find it helps to explain we are trying to use less plastic to avoid leaving plastic pollution behind us when we travel. Our hosts have been very responsive to this and happy to accomodate this request! But if a host is reluctant or doesn't understand our request, of course we respect that too.
 
 >#### *How we discovered this*
 >It was actaully a beachfront restaurant owner who first told us about this. He was concerned about plastic pollution, as were we, and he told us most properties in the area have at least one verified clean water line. A what in the who know?! How did we not know about this?! He went on to tell us that this was locally called a '[sofia line][2]’ (or something sounding like that!) after the french water company that installed the water infrastructure. We asked our accomodation ([Sea Zone Hotel][18]) and sure enough they had a line and showed us where to refill our bottles with clean, safe drinking water!  There were separate water lines to the guest bathrooms (which are not safe for drinking) and there was only one drink safe 'sofia line' available outside and another one in the kitchen. The hotel owners told us it was mandatory for them to have that water line.
@@ -129,6 +130,7 @@ We asked our friendly hosts at our Homestay ([Sun Ray Rest][13]) to use their Go
 Stay at [Peak house][5] for all your filtered water needs! We enjoyed the water filter here so didn't need water from the Government line, however the host told us that most properties in the area do have a Government water line. 
 
 ![]({{"/images/water/dickwella2.png"|absolute_url}})
+
 ![]({{"/images/water/dickwella.png"|absolute_url}})
 
 [Verse Collective][12] is trendy space in Dickwella that provides table water in re-fillable glass bottles rather than plastic. It has solid wifi too!
@@ -146,7 +148,7 @@ So, now you know, join your fellow travellers in kicking the single-use plastic 
 >
 >Would you find it useful if patforms like Trip Advisor, Booking.com, Google Maps, AirBNB etc listed "water re-fill station" as a facility at the accomodation/restaurant/area? If so send them some direct feedback or let us know in the comments below to help get this added as a feature!
 
-*While using the tips shared here we have stayed healthy and never experienced any water related health issues in Sri Lanka. However, of course we cannot absolutely guarantee the quality of any drinking water supply.*
+<sub>*While using the tips shared here we have stayed healthy and never experienced any water related health issues in Sri Lanka. However, of course we cannot absolutely guarantee the quality of any drinking water supply.*
 
 [1]: https://www.amazon.co.uk/Travel-Spout-800ml-filter-bottle/dp/B006RGLHOY
 [2]: https://www.water-technology.net/uncategorised/newssri-lanka-completes-water-supply-project-funded-by-french-Government/
