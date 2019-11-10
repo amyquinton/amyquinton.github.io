@@ -28,7 +28,7 @@ The figure and table below shows our rudimentary assessment that the [Project Dr
 
 ## Project Drawdown's solutions address many of the SDGs
 **The size of each rectangles corresponds to the number of Drawdown Solutions that could help achieve the SDG. So the bigger the SDG rectangle, the more Drawdown Solutions could be applied.**
-![](images/sdg-blog1/treemap1-1.png)<!-- -->
+![]({{"/images/sdg-blog1/treemap1-1.png"|absolute_url}})
 
 ### The data pertaining to the plot above 
 **SDGs with more related Drawdown Solutions appear in columns towards the left:**<br>
