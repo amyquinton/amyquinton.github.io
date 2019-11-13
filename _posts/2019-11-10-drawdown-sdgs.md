@@ -13,7 +13,7 @@ All [United Nations (UN) countries][4] are working towards achieving the [Sustai
 
 [Climate Action][9] is one of these [17 SDGs][1] that the world has agreed is of critical importance, and it is underpinned by the [Paris Agreement][17]. A separate initiative, [Project Drawdown][2], has identified a range of solutions to limit climate change ("Drawdown Solutions"), ranked via objective measures of CO2-equivalent reduction and costs. 
 
-*We realised that most [Drawdown Solutions][3] provide extra sustainable development benefits, additional to climate action, which relate directly to many of the [17 SDGs][1].* So we attempted to categorise which of [Project Drawdown's top 76  solutions][3] related to which of the [17 SDGs][1].
+**We realised that most [Drawdown Solutions][3] provide extra sustainable development benefits, additional to climate action, which relate directly to many of the [17 SDGs][1]. So we attempted to categorise which of [Project Drawdown's top 76  solutions][3] related to which of the [17 SDGs][1]**.
 
 This is timely as the [UN Department of Economic and Social Affairs][15] (UN DESA) and the [UN Framework Convention on Climate Change][16] (UNFCCC) have just published new analysis titled ["Maximizing Co-benefits by Linking Implementation of the Sustainable Development Goals and Climate Action"][14].
 
