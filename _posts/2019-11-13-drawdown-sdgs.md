@@ -18,7 +18,11 @@ All [United Nations (UN) countries][4] are working towards achieving the [Sustai
 
 This is timely as the [UN Department of Economic and Social Affairs][15] (UN DESA) and the [UN Framework Convention on Climate Change][16] (UNFCCC) have just published new analysis titled ["Maximizing Co-benefits by Linking Implementation of the Sustainable Development Goals and Climate Action"][14].
 
-The figure and tables below shows our rudimentary assessment that the [Project Drawdown's solutions][3] make a positive contribution to 16 of the [17 SDGs][1], not just to the Climate Action SDG! 
+The [IPCC's 2018 report on the impacts of global warming of 1.5 °C][18] also considers the synergies and trade-offs of climate mitigation action across the SDGs, concluding that the total number of possible synergies exceeds the number of trade-offs. However, the IPCC 2018 report notes their net effect will depend on how well they are implemented.
+
+The figure and tables below shows our rough assessment that the [Project Drawdown's solutions][3] make a positive contribution to many of the [17 SDGs][1], not just to the Climate Action SDG! 
+
+While this analysis is not precise, the purpose is to illustrate the clear link between well described and measurable climate change mitigation solutions and numerous SDGs.
 
 
 
@@ -1713,3 +1717,4 @@ We hope this is useful for governments, businesses, not-for-profits and others l
 [15]: https://www.un.org/development/desa/en/
 [16]: https://unfccc.int/
 [17]: https://unfccc.int/process-and-meetings/the-paris-agreement/the-paris-agreement
+[18]: https://www.ipcc.ch/sr15/chapter/spm/
