@@ -17,7 +17,7 @@ All [United Nations (UN) countries][4] are working towards achieving the [Sustai
 
 This is timely as the [UN Department of Economic and Social Affairs][15] (UN DESA) and the [UN Framework Convention on Climate Change][16] (UNFCCC) have just published new analysis titled ["Maximizing Co-benefits by Linking Implementation of the Sustainable Development Goals and Climate Action"][14].
 
-The figure and table below shows our rudimentary assessment that the [Project Drawdown's solutions][3] make a positive contribution to 16 of the [17 SDGs][1], not just to the Climate Action SDG! 
+The figure and tables below shows our rudimentary assessment that the [Project Drawdown's solutions][3] make a positive contribution to 16 of the [17 SDGs][1], not just to the Climate Action SDG! 
 
 
 
