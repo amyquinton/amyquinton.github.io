@@ -20,20 +20,13 @@ This is timely as the [UN Department of Economic and Social Affairs][15] (UN DES
 
 The [IPCC's 2018 report on the impacts of global warming of 1.5 °C][18] also provides an indepth analysis of the synergies and trade-offs of climate mitigation action across the SDGs, concluding that the total number of possible synergies exceeds the number of trade-offs. However, the IPCC 2018 report notes that the net effect of mitigation action on the SDGs will depend on how well they are implemented.
 
-The figure and tables below shows our rough assessment that the [Project Drawdown's solutions][3] can make a positive contribution to many of the [17 SDGs][1], not just to the Climate Action SDG! 
 
-While this analysis is not precise, the purpose is to illustrate the clear positive links between well described and measurable climate change mitigation solutions and the SDGs.
+## Snapshot of links between Project Drawdown Solutions and SDGs
 
+The figure and tables below shows our rough assessment that the [Drawdown Solutions][3] can make a positive contribution to many of the [17 SDGs][1], not just to the Climate Action SDG! 
 
+While this analysis is not precise, the purpose is to provide a snapshot of the clear positive links between well described and measurable climate change mitigation solutions and the SDGs.
 
-
-
-
-
-
-
-
-## Project Drawdown's solutions address many of the SDGs
 **The size of each rectangles corresponds to the number of Drawdown Solutions that could help achieve the SDG. So the bigger the SDG rectangle, the more Drawdown Solutions could be applied.**
 
 ![]({{"/images/sdg-blog1/treemap1-1.png"|absolute_url}})
