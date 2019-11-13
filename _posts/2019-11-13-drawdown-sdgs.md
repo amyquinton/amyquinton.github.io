@@ -5,7 +5,7 @@ author: Amy Quinton, Daniel Newman
 description: How Project Drawdown’s solutions apply to the 17 Sustainable Development Goals (SDGs)
 ---
 
-*Here we explore how Project Drawdown's climate mitigation solutions relate to the 17 Sustainable Development Goals (SDGs) and find that Project Drawdown's solutions can make a positive contribution to all SDGs, not just to Climate Action!*
+*Here we explore how Project Drawdown's climate mitigation solutions relate to the 17 Sustainable Development Goals (SDGs). We illustrate that Project Drawdown's solutions can make a positive contribution to all SDGs, not just to Climate Action!*
 
 
 All [United Nations (UN) countries][4] are working towards achieving the [Sustainable Development Goals (SDGs)][1] by 2030. [169 targets][5] and [232 unique indicators][6] measure progress on the [17 SDGs][1].
@@ -18,11 +18,11 @@ All [United Nations (UN) countries][4] are working towards achieving the [Sustai
 
 This is timely as the [UN Department of Economic and Social Affairs][15] (UN DESA) and the [UN Framework Convention on Climate Change][16] (UNFCCC) have just published new analysis titled ["Maximizing Co-benefits by Linking Implementation of the Sustainable Development Goals and Climate Action"][14].
 
-The [IPCC's 2018 report on the impacts of global warming of 1.5 °C][18] also considers the synergies and trade-offs of climate mitigation action across the SDGs, concluding that the total number of possible synergies exceeds the number of trade-offs. However, the IPCC 2018 report notes their net effect will depend on how well they are implemented.
+The [IPCC's 2018 report on the impacts of global warming of 1.5 °C][18] also considers the synergies and trade-offs of climate mitigation action across the SDGs, concluding that the total number of possible synergies exceeds the number of trade-offs. However, the IPCC 2018 report notes that the net effect of mitigation action on the SDGs will depend on how well they are implemented.
 
 The figure and tables below shows our rough assessment that the [Project Drawdown's solutions][3] make a positive contribution to many of the [17 SDGs][1], not just to the Climate Action SDG! 
 
-While this analysis is not precise, the purpose is to illustrate the clear link between well described and measurable climate change mitigation solutions and numerous SDGs.
+While this analysis is not precise, the purpose is to illustrate the clear positive link between well described and measurable climate change mitigation solutions and the SDGs.
 
 
 
