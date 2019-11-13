@@ -12,7 +12,7 @@ All [United Nations (UN) countries][4] are working towards achieving the [Sustai
 
 [![](http://www.un.org/development/desa/disabilities/wp-content/uploads/sites/15/2015/10/SDG-Poster.png)][1]
 
-[Climate Action][9] is one of these [17 SDGs][1] that the world has agreed is of critical importance, and it is underpinned by the [Paris Agreement][17]. A separate initiative, [Project Drawdown][2], has identified a range of solutions to limit climate change ("Drawdown Solutions"), ranked via objective measures of CO2-equivalent reduction and costs. 
+[Climate Action][9] is one of these [17 SDGs][1] that the world has agreed is of critical importance, and it is underpinned by the [Paris Agreement][17]. A separate initiative, [Project Drawdown][2], has identified a range of actionable solutions to limit climate change ("Drawdown Solutions"), ranked via objective measures of CO2-equivalent reduction and costs. 
 
 **We realised that most [Drawdown Solutions][3] provide extra sustainable development benefits, additional to climate action, which relate directly to many of the [17 SDGs][1]. So we attempted to categorise which of [Project Drawdown's top 76  solutions][3] related to which of the [17 SDGs][1]**.
 
