@@ -1507,10 +1507,10 @@ While this analysis is not precise, the purpose is to provide a snapshot of the 
 
 ### From the other perspective, which of the Drawdown Solutions relates to the most SDGs? 
 
-The table below shows our assessment that the [Educating Girls][10] and [Reduced Food Waste][11] Drawdown Solutions are related to the most SDGs, each applicable to (at least) 6 SDGs:
+The table below shows our assessment that the [Educating Girls][10] and [Reduced Food Waste][11] Drawdown Solutions are related to the most SDGs, linking to at least 7 and 6 SDGs respectively:
 
 - *Educating Girls:* 
-  - Climate Action; Gender Equality; No Poverty;	Decent Work and Economic Growth; Reduced Inequality; Quality Education.
+  - Climate Action; Gender Equality; No Poverty;	Decent Work and Economic Growth; Reduced Inequality; Quality Education; Peace and Justice and Strong Institutions.
 
 - *Reduced Food Waste:* 
   - Climate Action;	Zero Hunger; Good Health and Well being;	Sustainable Cities and Communities; Responsible Consumption and Production; Life on Land.
