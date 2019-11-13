@@ -5,7 +5,8 @@ author: Amy Quinton, Daniel Newman
 description: How Project Drawdown’s solutions apply to the 17 Sustainable Development Goals (SDGs)
 ---
 
-*By [Amy Quinton][7] and [Daniel Newman][8]*
+*Here we categorise which of Project Drawdown's solutions relate to which of the 17 Sustainable Development Goals (SDGs) and find that Project Drawdown's solutions make a positive contribution to 16 of the 17 SDGs, not just to the Climate Action SDG!*
+
 
 All [United Nations (UN) countries][4] are working towards achieving the [Sustainable Development Goals (SDGs)][1] by 2030. [169 targets][5] and [232 unique indicators][6] measure progress on the [17 SDGs][1].
 
@@ -1689,10 +1690,11 @@ We hope this post is interesting and thought provoking. If anybody would like to
 ## Conclusions
 Our rudimentary analysis shows that the [Drawdown Solutions][3] provide well described and measurable ways to address climate change while also contributing to a broad range of other SDGs and benefits. 
 
-This aligns with UN DESA and UNFCCC's [lastest report][14] on the synergies between global commitments to climate action and the SDGs.
+This aligns with UN DESA and UNFCCC's [lastest report][14] on the synergies between and need for greater integration of global commitments to climate action and the SDGs.
 
 We hope this is useful for governments, businesses, not-for-profits and others looking for direct ways to contribute towards the [Sustainable Development Goals (SDGs)][1].
 
+*By [Amy Quinton][7] and [Daniel Newman][8]*
 
 [1]: https://sustainabledevelopment.un.org/sdgs
 [2]: https://www.drawdown.org
