@@ -27,7 +27,7 @@ The figure and tables below shows our rough assessment that the [Drawdown Soluti
 
 While this analysis is not precise, the purpose is to provide a snapshot of the clear positive links between well described and measurable climate change mitigation solutions and the SDGs.
 
-**The size of each rectangles corresponds to the number of Drawdown Solutions that could help achieve the SDG. So the bigger the SDG rectangle, the more Drawdown Solutions could be applied.**
+**The size of each rectangle corresponds to the number of Drawdown Solutions that could help achieve the SDG. So the bigger the SDG rectangle, the more Drawdown Solutions that apply.**
 
 ![]({{"/images/sdg-blog1/treemap1-1.png"|absolute_url}})
 
