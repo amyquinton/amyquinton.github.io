@@ -145,7 +145,7 @@ So, now you know, join your fellow travellers in kicking the single-use plastic 
 
 >### Travel App feature?
 >
->Would you find it useful if patforms like Trip Advisor, Booking.com, Google Maps, AirBNB etc listed "water re-fill station" as a facility at the accomodation/restaurant/area? If so send them some direct feedback or let us know in the comments below to help get this added as a feature!
+>Would you find it useful if platforms like Trip Advisor, Booking.com, Google Maps, AirBNB etc listed "water re-fill station" as a facility at the accomodation/restaurant/area? If so send them some direct feedback or let us know to help get this added as a feature!
 
 <sub>*While using the tips shared here we have stayed healthy and never experienced any water related health issues in Sri Lanka. However, of course we cannot absolutely guarantee the quality of any drinking water supply.*
 
