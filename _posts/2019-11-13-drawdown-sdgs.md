@@ -1513,7 +1513,7 @@ The table below shows our assessment that the [Educating Girls][10] and [Reduced
   - Climate Action; Gender Equality; No Poverty;	Decent Work and Economic Growth; Reduced Inequality; Quality Education; Peace and Justice and Strong Institutions.
 
 - *Reduced Food Waste:* 
-  - Climate Action;	Zero Hunger; Good Health and Well being;	Sustainable Cities and Communities; Responsible Consumption and Production; Life on Land.
+  - Climate Action;	Zero Hunger; Good Health and Wellbeing;	Sustainable Cities and Communities; Responsible Consumption and Production; Life on Land.
   
 The table below shows our rudimentary assessment of the number of related SDGs for each of the 76 best Drawdown Solutions  
 
@@ -1836,12 +1836,12 @@ The table below shows our rudimentary assessment of the number of related SDGs f
 </table></div>
 
 ## Open data and code from this analysis
-We hope this post is interesting and thought provoking. If anybody would like to contribute further to it, [here][12] is the spreadsheet containing our rough analysis. Anyone can add comments/suggestions. We will recieve an email notification when people comment. Also [here][13] is a repository with the code we used to produce everything else in this post (pull requests welcome). 
+We hope this post is interesting and thought provoking. If anybody would like to contribute further to it, [here][12] is the spreadsheet containing our rough analysis. Anyone can add comments/suggestions. We will receive an email notification when people comment. Also [here][13] is a repository with the code we used to produce everything else in this post (pull requests welcome). 
 
 ## Conclusions
 Our rudimentary analysis shows that the [Drawdown Solutions][3] provide well described and measurable ways to address climate change while also contributing to a broad range of other SDGs and benefits. 
 
-This aligns with UN DESA and UNFCCC's [lastest report][14] on the synergies between and need for greater integration of global commitments to climate action and the SDGs.
+This aligns with UN DESA and UNFCCC's [latest report][14] on the synergies between and need for greater integration of global commitments to climate action and the SDGs.
 
 We hope this is useful for governments, businesses, not-for-profits and others looking for direct ways to contribute towards the [Sustainable Development Goals (SDGs)][1].
 
