@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I am a lawyer and environmental sustainability specialist with a passion for collaborating with people to build a more sustainable future. I believe that our societies need updated systems that allow us to enjoy productive, sustainable economies that support, rather than undermine, the health of the Earth.
+Hi! I am a lawyer and environmental sustainability specialist with a passion for collaborating with people to build a more sustainable future.
 
-I  am currently vagabonding through Asia and South/Central America with my husband, exploring new places and ideas.
+Right now I am vagabonding through Asia and South/Central America with my husband Dan, enjoying the adventure and exploring new places, perspectives and ideas.
 
-I love being physically active, spending time in nature and continuously learning. A couple of my recent interests are learning to surf and building this website.
+I love being physically active, spending time in nature and continuously learning. Some of my favourite activities include martial arts, mountain biking, hiking and surfing.
 
 For more on my background (early years, uni days, professional life and travels) feel free to peruse my story below.
 
