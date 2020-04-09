@@ -342,4 +342,3 @@ Want to know more about Bridgewater’s All-Weather investment strategy? See the
 [50]: http://mirca.github.io/
 [51]: http://www.danielppalomar.com/
 [52]: https://github.com/dppalomar/riskParityPortfolio
-QCB
