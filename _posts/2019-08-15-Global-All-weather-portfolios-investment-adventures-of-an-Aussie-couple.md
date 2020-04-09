@@ -101,7 +101,7 @@ Scroll down to [Table 2](#table-2-link) and for example portfolios that select o
 |Long-term<br>Australian treasury<br>bonds (~20-25 yrs)| Long-term exchange-traded treasury bonds (ETBs):<br>- year of maturity - 2037 ([GSBG37][25]);<br>- year of maturity - 2039 ([GSBK39][25]);<br>- year of maturity - 2041 ([GSBI41][25]);<br>- year of maturity - 2047 ([GSBE47][25])|
 |Intermediate<br>Australian treasury<br>bonds (5-10 yrs) | Vanguard Australian Government Bond Index ETF ([VGB][26]);<br>BetaShares Australian Government Bond ETF (AGVT);<br>iShares government bond index ETF ([IGB][27])|
 |Gold| BetaShares Gold Bullion ETF - Currency Hedged ([QAU][28]);<br>ETFS Physical Gold (non-hedged) ([GOLD][29])|
-|Commodities|BetaShares Commodities Basket ETF - Currency Hedged (synthetic) ([QBC][30])|
+|Commodities|BetaShares Commodities Basket ETF - Currency Hedged (synthetic) ([QCB][30])|
 
 
 We understood that the underlying principles of the All-Weather approach are [timeless and universal][31] and therefore would apply in Australia (and globally). But we weren’t sure whether the [asset class proportions recommended for the US All-Seasons][32] would be the same in Australia. So we (particularly [the data scientist among us][33]) wanted to test it out on plenty of historical data before trusting it with our life savings. To sense test, we first looked at historical performance using the [All-Seasons asset weights][32] for both US and Australian assets.
@@ -186,7 +186,7 @@ The historical performance plot in [Figure 2](#figure-2-link) below shows that o
 |ILB|ASX|iShares Government Inflation ETF|
 |IHEB|ASX|iShares J.P. Morgan USD Emerging Markets Bond (AUD Hedged) ETF|
 |QAU|ASX|BetaShares Gold Bullion ETF - Currency Hedged|
-|QBC|ASX|BetaShares Commodities Basket ETF - Currency Hedged (synthetic)|
+|QCB|ASX|BetaShares Commodities Basket ETF - Currency Hedged (synthetic)|
 |TIP|NYSE|iShares TIPS Bond ETF|
 |TLT|NASDAQ|iShares 20+ Year Treasury Bond ETF|
 |VAS|ASX|Vanguard Australian Shares Index ETF|
@@ -342,3 +342,4 @@ Want to know more about Bridgewater’s All-Weather investment strategy? See the
 [50]: http://mirca.github.io/
 [51]: http://www.danielppalomar.com/
 [52]: https://github.com/dppalomar/riskParityPortfolio
+QCB
