@@ -60,7 +60,7 @@ We have chosen (developed market) equity funds (VESG and FAIR - see [Table 1](#t
 
 Among other things, it is important to consider the impact of brokerage and other fees on overall portfolio performance. Brokerage fees apply when buying and selling ETFs. Since this strategy involves holding 10 ETFs (see [Table 1](#table-1-link) above), the brokerage fees paid to buy/sell these ETF may be too expensive for smaller portfolios (e.g. portfolios with a total value less than A$50,000) and thus make this kind of strategy less competitive than it is for larger portfolios. 
 
-#### *Long-term exchange-traded Australian treasury bonds (ETBs) 
+#### *Long-term Australian Government exchange-traded bonds (ETBs) 
 
 Currently there are no ETFs on the ASX that track long term (over 20 years to maturity) Australian (or international) government bonds. But there are individual long-term Australian Government exchange-traded bonds (ETBs). Of these ETBs we chose to use GSBE47 which matures in 2047 (i.e. in 27 years).[A full list of ETBs is available here][6].  
 
