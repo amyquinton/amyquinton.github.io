@@ -62,7 +62,7 @@ Among other things, it is important to consider the impact of brokerage and othe
 
 #### *Long-term Australian Government exchange-traded bonds (ETBs) 
 
-Currently there are no ETFs on the ASX that track long term (over 20 years to maturity) Australian (or international) government bonds. But there are individual long-term Australian Government exchange-traded bonds (ETBs). Of these ETBs we chose to use GSBE47 which matures in 2047 (i.e. in 27 years).[A full list of ETBs is available here][6].  
+Currently there are no ETFs on the ASX that track long term (over 20 years to maturity) Australian (or international) government bonds. But there are individual long-term Australian Government exchange-traded bonds (ETBs). Of these ETBs we chose to use GSBE47 which matures in 2047 (i.e. in 27 years). [A full list of ETBs is available here][6].  
 
 To maintain exposure to long-term governments bonds we need to periodically update the ETB. For example, we currently hold ETB ‘GSBE47’ which matures in 2047 (i.e. in 27 years). After 2027, GSBE47 will reach maturity in less than 20 years and therefore will no longer be “long term”, so it will be important to replace this with another long-term ETB over time. 
 
