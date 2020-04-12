@@ -16,7 +16,7 @@ font-size: 12px
 }
 </style>
 
-We wanted a single, globally diversified portfolio filtered for environmental, social, and governance ([ESG][1]) considerations and based upon the *all-weather investment principles*. This kind of portfolio, designed to manage down-side risk in any economic environment, has received increased interest since the strong economic downturn associated with COVID19.
+We wanted a single, globally diversified portfolio filtered for environmental, social, and governance ([ESG][1]) considerations and based upon the *all-weather investment principles*. This kind of portfolio, designed to manage down-side risk in any economic environment, has received increased interest since the strong economic downturn associated with COVID-19.
 
 This blog shares our attempt at implementing this strategy using securities available on the Australian Securities Exchange (ASX). The result is an ESG-conscious all-weather portfolio that is diversified across global geographies and risk balanced across asset classes. We are refining our strategy over time, and the portfolio shared here caputures our current approach.
 
