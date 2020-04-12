@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Global, ESG ‘all-weather’ investment portfolio in Australia 
+title: Global, ESG ‘all-weather’ investment portfolio - in a Nutshell
 author: Amy Quinton, Daniel Newman
 description: Global ESG filtered all-weather investment portfolio via the ASX
 ---
@@ -26,7 +26,7 @@ Also check out [Dan’s recent update][3] including new data from the past 8 mon
 
 It is important to be clear that we are in no way able to provide financial advice and are not trying to convince anyone this is the right strategy for them. We simply share our research and results in case it is interesting to others. 
 
-###So without further ado, here is our global, ESG filtered, all-weather portfolio
+### So without further ado, here is our global, ESG filtered, all-weather portfolio
 The table below shows the securities and weights for each asset in our globally diversified, ESG filtered all-weather investment portfolio via the ASX. 
 
 **Table 1.** *Our global ESG all-weather portfolio*
