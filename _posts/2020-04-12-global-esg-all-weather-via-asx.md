@@ -45,9 +45,9 @@ The table below shows the securities and weights for each asset in our globally 
 |PMGOLD |7.0%|Gold|Universal|
 |QCB |6.2%|Commodities|Universal|
 
-The portfolio’s equities and bonds exposure are 20 percent Australian and 80 percent international. The 100% equities benchmark in the plot below is also 20 percent Australian and 80 percent international (20% [VAS][4]; 80% [VGS][5]). 
+The portfolio’s equities and bonds exposure are 20 percent Australian and 80 percent international. The 100 percent equities benchmark in the plot below is also 20 percent Australian and 80 percent international (20% [VAS][4]; 80% [VGS][5]). 
 
-Figure 1. below shows how this portfolio has performed compared to a 100 percent equities benchmark. It shows that out global ESG filtered all-weather portfolio has had superior returns and smaller drawdowns compared to 100% equities since we started investing in and publishing our thoughts on the all-weather strategy in August 2019. 
+Figure 1. below shows how this portfolio has performed compared to a 100 percent equities benchmark. It shows that out global ESG filtered all-weather portfolio has had superior returns and smaller drawdowns compared to 100 percent equities since we started investing in and publishing our thoughts on the all-weather strategy in August 2019. 
 
 
 ![]({{"/images/plot-global-ESG-allweather-for-Amys-blog.png"|absolute_url}})
