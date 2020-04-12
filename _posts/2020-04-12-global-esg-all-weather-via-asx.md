@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Global, ESG ‘all-weather’ investment portfolio - in a Nutshell
+title: Global, ESG ‘all-weather’ investment portfolio in a nutshell
 author: Amy Quinton, Daniel Newman
 description: Global ESG filtered all-weather investment portfolio via the ASX
 ---
@@ -62,9 +62,9 @@ Among other things, it is important to consider the impact of brokerage and othe
 
 #### *Long-term exchange-traded Australian treasury bonds (ETBs) 
 
-Currently there are no ETFs on the ASX that track long term (over 20 years to maturity) Australian government bonds. But there are individual exchange-traded long-term treasury bonds (ETBs). Of these ETBs we chose to use GSBE47 which matures in 2047 (i.e. in 27 years). One can access [a full list of the available ETBs here][6].  
+Currently there are no ETFs on the ASX that track long term (over 20 years to maturity) Australian (or international) government bonds. But there are individual long-term Australian Government exchange-traded bonds (ETBs). Of these ETBs we chose to use GSBE47 which matures in 2047 (i.e. in 27 years).[A full list of ETBs is available here][6].  
 
-The ETB's time to maturity for the 4% long-term Australian government bond portion of the portfolio should ideally be at least 20 years. Therefore, we need to update the long-term ETB over time.   For example, we currently hold ETB ‘GSBE47’ which matures in 2047 (i.e. in 27 years). After 2027, GSBE47 will reach maturity in less than 20 years and therefore will no longer be “long term”, so it will be important to replace this with another long-term ETB over time. 
+To maintain exposure to long-term governments bonds we need to periodically update the ETB. For example, we currently hold ETB ‘GSBE47’ which matures in 2047 (i.e. in 27 years). After 2027, GSBE47 will reach maturity in less than 20 years and therefore will no longer be “long term”, so it will be important to replace this with another long-term ETB over time. 
 
 [1]: https://www.investopedia.com/terms/e/environmental-social-and-governance-esg-criteria.asp
 [2]: https://amyquinton.github.io/Global-All-weather-portfolios-investment-adventures-of-an-Aussie-couple/
