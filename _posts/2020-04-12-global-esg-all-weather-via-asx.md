@@ -24,8 +24,6 @@ You can find the story behind why we chose this approach and our methodology for
 
 Also check out [Dan’s recent update][3] including new data from the past 8 months showing how the strategy outlined in the August 2019 blog has performed during the COVID19 epidemic. 
 
-It is important to be clear that we are in no way able to provide financial advice and are not trying to convince anyone this is the right strategy for them. We simply share our research and results in case it is interesting to others. 
-
 ### So without further ado, here is our global, ESG filtered, all-weather portfolio
 The table below shows the securities and weights for each asset in our globally diversified, ESG filtered all-weather investment portfolio via the ASX. 
 
@@ -52,6 +50,8 @@ Figure 1. below shows how this portfolio has performed compared to a 100 percent
 
 ![]({{"/images/plot-global-ESG-allweather-for-Amys-blog.png"|absolute_url}})
 **Figure 1**. *Our global ESG all-weather portfolio has had superior returns and smaller drawdowns than the global equities benchmark since we started investing in and publishing our thoughts on the all-weather strategy in August 2019. The relevant ASX securities and weights the portfolio tickers are shown in [Table 1](#table-1-link). The global equities benchmark is also constructed from ASX securities (20% VAS; 80% VGS).* 
+
+It is important to be clear that we are in no way able to provide financial advice and are not trying to convince anyone this is the right strategy for them. We simply share our research and results in case it is interesting to others. 
 
 #### ESG / responsible investment considerations
 We have chosen (developed market) equity funds (VESG and FAIR - see [Table 1](#table-1-link)) which exclude companies with significant business activities involving fossil fuels, alcohol, tobacco, gambling, military weapons and civilian firearms, nuclear power and adult entertainment.   
