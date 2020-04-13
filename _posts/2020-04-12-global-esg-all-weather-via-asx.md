@@ -56,8 +56,9 @@ Figure 1. below shows how this portfolio has performed compared to a 100 percent
 
 To be clear, we are in no way able to provide financial advice and are not trying to convince anyone this is the right strategy for them. We simply share our research and results in case it is interesting to others. 
 
-#### ESG / responsible investment considerations
-We used (developed market) equity funds (Vanguard Ethically Conscious International Shares Index ETF ['VESG'][7] and BetaShares Australian Sustainability Leaders ETF ['FAIR'][8] - see [Table 1](#table-1-link)) which exclude companies with significant business activities involving fossil fuels, alcohol, tobacco, gambling, military weapons and civilian firearms, nuclear power and adult entertainment.   
+#### ESG / responsible investment considerations 
+
+We have chosen developed market equity funds which exclude companies with significant business activities involving fossil fuels, alcohol, tobacco, gambling, military weapons and civilian firearms, nuclear power and adult entertainment (Vanguard Ethically Conscious International Shares Index ETF ['VESG'][7] and BetaShares Australian Sustainability Leaders ETF ['FAIR'][8] - see [Table 1](#table-1-link)).   
 
 FAIR's methodology also preferences companies classified as “Sustainability Leaders” based on their involvement in sustainable business activities.
 
