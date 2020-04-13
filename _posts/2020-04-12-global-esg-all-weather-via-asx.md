@@ -16,16 +16,16 @@ font-size: 12px
 }
 </style>
 
-We wanted a single, globally diversified portfolio filtered for environmental, social, and governance ([ESG][1]) considerations and based on *all-weather investment principles*. This kind of portfolio, designed to manage down-side risk in any economic environment, has received increased interest since the strong economic downturn associated with COVID-19.
+We wanted a single, diversified portfolio filtered for environmental, social, and governance ([ESG][1]) considerations and based on *all-weather investment principles*. This kind of portfolio, designed to manage down-side risk in any economic environment, has received increased interest since the large economic downturn associated with COVID-19.
 
-This blog shares our attempt at implementing this strategy using securities available on the Australian Securities Exchange (ASX). The result is an ESG-conscious all-weather portfolio that is diversified across global geographies and risk balanced across asset classes. We are refining our strategy over time, and the portfolio shared here caputures our current approach.
+This blog shares our attempt at implementing this strategy using securities available on the Australian Securities Exchange (ASX). The result is a broadly diversified ESG-conscious all-weather portfolio that is risk balanced across asset classes. We are refining our strategy over time, and the portfolio shared here caputures our current approach.
 
-You can find the story behind why we chose this approach and our methodology for developing such a portfolio in our August 2019 article - [Global all-weather portfolios - investment adventures of an Aussie couple][2].  
+You can find the story behind why we chose this approach and our methodology in our August 2019 article - [Global all-weather portfolios - investment adventures of an Aussie couple][2].  
 
-Also check out [Dan’s recent update][3] including new data from the past 8 months showing how the strategy outlined in the August 2019 blog has performed during the COVID-19 epidemic. 
+Also check out [Dan’s recent update][3] including new data showing how the strategy outlined in the August 2019 blog has performed during the COVID-19 epidemic. 
 
 ### So without further ado, here is our global, ESG filtered, all-weather portfolio
-The table below shows the securities and weights for each asset in our globally diversified, ESG filtered all-weather investment portfolio via the ASX. 
+The table below shows the securities and weights for each asset in our globally diversified, ESG filtered all-weather investment portfolio via the ASX. The portfolio requires rebalancing (e.g. annually) to maintain target weights.
 
 **Table 1.** *Our global ESG all-weather portfolio*
 <a name="table-1-link"></a>
@@ -35,7 +35,7 @@ The table below shows the securities and weights for each asset in our globally 
 |VESG |19.2%|Equities |International (Developed Markets)|
 |FAIR |6.0%|Equities |Australian|
 |VGE |2.4%|Equities  |International (Emerging Markets)|
-|VIF |40.0%|Government Bonds (medium term)|International (Emerging Markets)|
+|VIF |40.0%|Government Bonds (medium term)|International (Developed Markets)|
 |GSBE47* |4.0% |Government Bonds (long term)|Australian|
 |ILB |4.2%  |Government Bonds (inflation linked) |Australian|
 |IGB |3.0%|Government Bonds (medium term)|Australian|
@@ -43,18 +43,23 @@ The table below shows the securities and weights for each asset in our globally 
 |PMGOLD |7.0%|Gold|Universal|
 |QCB |6.2%|Commodities|Universal|
 
+
 The portfolio’s equities and bonds exposure are 20 percent Australian and 80 percent international. The 100 percent equities benchmark in Figure 1. below is also 20 percent Australian and 80 percent international (20% [VAS][4]; 80% [VGS][5]). 
 
 Figure 1. below shows how this portfolio has performed compared to a 100 percent equities benchmark. It shows that our global ESG filtered all-weather portfolio has had superior returns and smaller drawdowns compared to 100 percent equities since we started investing in and publishing our thoughts on the all-weather strategy in August 2019. 
 
 
 ![]({{"/images/plot-global-ESG-allweather-for-Amys-blog.png"|absolute_url}})
-**Figure 1**. *Our global ESG all-weather portfolio has had superior returns and smaller drawdowns than the global equities benchmark since we started investing in and publishing our thoughts on the all-weather strategy in August 2019. The relevant ASX securities and weights the portfolio tickers are shown in [Table 1](#table-1-link). The global equities benchmark is also constructed from ASX securities (20% VAS; 80% VGS).* 
+**Figure 1**. *Our global ESG all-weather portfolio has had superior returns and smaller drawdowns than the global equities benchmark since we started investing in and publishing our thoughts on the all-weather strategy in August 2019. The relevant ASX securities and weights the portfolio tickers are shown in [Table 1](#table-1-link). The global equities benchmark is also constructed from ASX securities (20% VAS; 80% VGS). Longer-term historical performance data is not available for VESG and FAIR because they are relatively new ETFs. [See here for up-to-date plots showing historic performance][3] based on the strategy outlined in our [August 2019 blog][2].*
+
+<sub> Note these simulated results do not include brokerage fees and assume the desired portfolio balance is maintained throughout. In practice, the portfolio would be rebalanced periodically (e.g. annually). Simulated historical performance results have inherent limitations since unlike an actual performance record, simulations do not reflect the cost of trading or the impact of actual trades on market factors such as volume and liquidity. <sub>
 
 It is important to be clear that we are in no way able to provide financial advice and are not trying to convince anyone this is the right strategy for them. We simply share our research and results in case it is interesting to others. 
 
 #### ESG / responsible investment considerations
-We have chosen (developed market) equity funds (VESG and FAIR - see [Table 1](#table-1-link)) which exclude companies with significant business activities involving fossil fuels, alcohol, tobacco, gambling, military weapons and civilian firearms, nuclear power and adult entertainment.   
+We have chosen (developed market) equity funds ([Vanguard Ethically Conscious International Shares Index ETF 'VESG'][7] and [BetaShares Australian Sustainability Leaders ETF'FAIR'][8] - see [Table 1](#table-1-link)) which exclude companies with significant business activities involving fossil fuels, alcohol, tobacco, gambling, military weapons and civilian firearms, nuclear power and adult entertainment.   
+
+FAIR's methodology also preferences companies classified as “Sustainability Leaders” based on their involvement in sustainable business activities.
 
 #### Note on fees
 
@@ -72,3 +77,5 @@ To maintain exposure to long-term governments bonds we need to periodically upda
 [4]: https://www.vanguardinvestments.com.au/retail/ret/investments/product.html#/fundDetail/etf/portId=8205/assetCode=equity/?overview
 [5]: https://www.vanguardinvestments.com.au/retail/ret/investments/product.html#/fundDetail/etf/portId=8212/assetCode=equity/?overview
 [6]: https://www.australiangovernmentbonds.gov.au/bond-types/exchange-traded-treasury-bonds/list-etbs
+[7]: https://www.vanguard.com.au/adviser/products/en/detail/etf/8225/equity
+[8]: https://www.betashares.com.au/fund/australian-sustainability-leaders-etf/
