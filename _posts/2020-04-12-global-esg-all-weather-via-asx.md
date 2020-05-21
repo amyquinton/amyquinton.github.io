@@ -44,13 +44,13 @@ The table below shows the target weights and ASX tickers for each asset type. Th
 |QCB |6.2%|Commodities|Universal|
 
 
-The portfolio’s equities and bonds exposure are 20 percent Australian and 80 percent international. The 100 percent equities benchmark in Figure 1. below is also 20 percent Australian and 80 percent international (20% [VAS][4]; 80% [VGS][5]). 
+The portfolio’s equities and bonds exposure are 20 percent Australian and 80 percent international. The 100 percent equities portfolio in Figure 1. below is also 20 percent Australian and 80 percent international (20% [VAS][4]; 80% [VGS][5]). 
 
-Figure 1. below shows how this portfolio has performed compared to a 100 percent equities benchmark in the period since August 2019. It shows that, as expected in a large economic downturn, the global ESG filtered all-weather portfolio has had superior returns and smaller drawdowns compared to 100 percent equities.  
+Figure 1. below shows how this portfolio has performed compared to a 100 percent equities portfolio in the period since August 2019. It shows that, as expected in a large economic downturn, the global ESG filtered all-weather portfolio has had superior returns and smaller drawdowns compared to 100 percent equities.  
 
 
 ![]({{"/images/plot-global-ESG-allweather-for-Amys-blog.png"|absolute_url}})
-**Figure 1**. *Performance of global ESG all-weather portfolio compared to global equities benchmark in the period August 2019 to April 2020 . The relevant ASX-listed securities and target weights are shown in [Table 1](#table-1-link). The global equities benchmark is constructed from ASX-listed securities (20% VAS; 80% VGS). Longer-term historic performance data is not available for VESG - see [here][3] for plots showing historic performance based on the indexes shown in our August 2019 blog.*
+**Figure 1**. *Performance of global ESG all-weather portfolio compared to global equities portfolio in the period August 2019 to April 2020 . The relevant ASX-listed securities and target weights are shown in [Table 1](#table-1-link). The global equities portfolio is constructed from ASX-listed securities (20% VAS; 80% VGS). Longer-term historic performance data is not available for VESG - see [here][3] for plots showing historic performance based on the indexes shown in our August 2019 blog.*
 
 <sub> Note these simulated results do not include brokerage fees and assume the desired portfolio balance is maintained throughout. In practice, the portfolio would be rebalanced periodically (e.g. annually). Simulated historical performance results have inherent limitations since unlike an actual performance record, simulations do not reflect the cost of trading or the impact of actual trades on market factors such as volume and liquidity. <sub>
 
