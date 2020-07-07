@@ -26,7 +26,7 @@ At the end of 2014, I moved to Melbourne and started professional life as a sust
 I realised I enjoyed legal problem solving in this practical context more than my experience at law school led me to believe I would. With a desire to further progress my legal skills I transitioned from consulting to legal practice. I was fortunate to land a role in the environment and planning team of a global law firm, working alongside one of Australia’s leading environmental and climate change lawyers. This immersion into legal practice within a fast paced corporate environment was both challenging and rewarding. 
 
 ### Vagabonding
-After about five years of full-time professional life precededed by seven years of study, work and volunteering, I decided with my husband Dan to take a year off “normal life”.  We sold and gave away almost everything we owned and set out on an adventure, commencing June 2019. For us, this year was about exploring new places and ideas, gaining fresh perspectives, reflecting on our values and life direction (both as individuals and newly-weds), slowing down, playing and connecting with our intrinsic interests and creativity.  
+After about five years of full-time professional life preceded by seven years of study, work and volunteering, I decided with my husband Dan to take a year off “normal life”.  We sold and gave away almost everything we owned and set out on an adventure, commencing June 2019. For us, this year was about exploring new places and ideas, gaining fresh perspectives, reflecting on our values and life direction (both as individuals and newly-weds), slowing down, playing and connecting with our intrinsic interests and creativity.  
 
 Dan has published a great short reflection on our trip which you can read [here][2].
 
